@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "scope": "Frozen IG XV 1 digital index; not the entire ancient corpus",
+  "source_index_entries": 593,
+  "acquired_entries": 593,
+  "quarantined_entries": [
+    "IG XV 1, 150"
+  ],
+  "failed_entries": [],
+  "digital_edition_records": 592,
+  "source_interpreted_greek_records": 170,
+  "eteocypriot_labelled_records": 18,
+  "uncertain_language_records": 7,
+  "unclassified_records": 397,
+  "greek_records_with_clear_tokens": 149,
+  "distinct_objects": null,
+  "independent_witnesses": null,
+  "whole_corpus_coverage_fraction": null,
+  "independently_reviewed_records": 0,
+  "gates": {
+    "source_snapshot": "READY_WITH_QUARANTINE",
+    "source_interpreted_greek_subset": "READY_SCOPED",
+    "whole_corpus_frequency": "BLOCKED",
+    "linguistic_gold": "BLOCKED",
+    "cross_script_phonetic_inference": "BLOCKED",
+    "exhaustive_critical_edition": "BLOCKED"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/hawkinsnick/Cypriot-syllabic-Greek/blob/main/schemas/record.schema.json",
+  "title": "Cypriot syllabic Greek digital edition entry 1.0",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "source_id",
+    "record_unit",
+    "object_id",
+    "independent_witness_id",
+    "script",
+    "language",
+    "title",
+    "site",
+    "date_source",
+    "date_normalized",
+    "support",
+    "provenance_source",
+    "edition",
+    "greek_interpretations",
+    "translations",
+    "bibliography_source",
+    "source",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^CSG-IGXV1-[0-9]+(?:-[0-9IVX]+)?$"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "record_unit": {
+      "const": "digital_edition_entry"
+    },
+    "object_id": {
+      "type": "null"
+    },
+    "independent_witness_id": {
+      "type": "null"
+    },
+    "script": {
+      "const": "Cprt"
+    },
+    "language": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "code",
+        "status",
+        "basis",
+        "greek_analysis_eligible"
+      ],
+      "properties": {
+        "code": {
+          "enum": [
+            "grc",
+            "eteocypriot",
+            "uncertain",
+            "und"
+          ]
+        },
+        "status": {
+          "enum": [
+            "source_label",
+            "source_interpretation",
+            "unclassified"
+          ]
+        },
+        "basis": {
+          "type": "string"
+        },
+        "greek_analysis_eligible": {
+          "type": "boolean"
+        }
+      }
+    },
+    "title": {
+      "type": "string"
+    },
+    "site": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_normalized": {
+      "type": "null"
+    },
+    "support": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "provenance_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "representation",
+        "text",
+        "xml",
+        "parts",
+        "line_labels",
+        "direction_markers",
+        "direction",
+        "tokens"
+      ],
+      "properties": {
+        "representation": {
+          "const": "source_syllabic_transliteration_or_mixed_edition"
+        },
+        "text": {
+          "type": "string"
+        },
+        "xml": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "parts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "n",
+              "subtype",
+              "text"
+            ],
+            "properties": {
+              "n": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "subtype": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "text": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "line_labels": {
+          "type": "array",
+          "items": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "direction_markers": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "←",
+              "→"
+            ]
+          }
+        },
+        "direction": {
+          "const": "not_normalized"
+        },
+        "tokens": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "raw",
+              "start",
+              "end",
+              "status",
+              "values",
+              "sign_ids"
+            ],
+            "properties": {
+              "raw": {
+                "type": "string"
+              },
+              "start": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "end": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "status": {
+                "enum": [
+                  "conservative_clear",
+                  "excluded_editorial_or_unparsed"
+                ]
+              },
+              "values": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "sign_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "greek_interpretations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "language",
+          "responsibility",
+          "text",
+          "source_locator",
+          "xml"
+        ],
+        "properties": {
+          "language": {
+            "type": "string"
+          },
+          "responsibility": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "source_locator": {
+            "type": "string"
+          },
+          "xml": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "translations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "language",
+          "responsibility",
+          "text",
+          "source_locator",
+          "xml"
+        ],
+        "properties": {
+          "language": {
+            "type": "string"
+          },
+          "responsibility": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "text": {
+            "type": "string"
+          },
+          "source_locator": {
+            "type": "string"
+          },
+          "xml": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "bibliography_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "authority",
+        "url",
+        "xml_url",
+        "raw_path",
+        "sha256",
+        "accessed",
+        "license",
+        "license_url",
+        "modifications"
+      ],
+      "properties": {
+        "authority": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "xml_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "raw_path": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "accessed": {
+          "type": "string",
+          "format": "date"
+        },
+        "license": {
+          "const": "CC-BY-4.0"
+        },
+        "license_url": {
+          "const": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "modifications": {
+          "type": "string"
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_fidelity",
+        "independent_epigraphic_review"
+      ],
+      "properties": {
+        "source_fidelity": {
+          "const": "automated_replay"
+        },
+        "independent_epigraphic_review": {
+          "const": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,593 @@
+id,source_id,language,greek_analysis_eligible,site,title,date_source,support,source_url,license
+CSG-IGXV1-1,"IG XV 1, 1",eteocypriot,False,Amathus,"Weihinschrift, eteokyprisch und griechisch",330-310,Basis (Marmor),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%201,CC-BY-4.0
+CSG-IGXV1-2,"IG XV 1, 2",eteocypriot,False,Amathus,"Weihinschrift, eteokyprisch und griechisch",330-310,Basis (Marmor),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%202,CC-BY-4.0
+CSG-IGXV1-3,"IG XV 1, 3",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%203,CC-BY-4.0
+CSG-IGXV1-4,"IG XV 1, 4",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%204,CC-BY-4.0
+CSG-IGXV1-5,"IG XV 1, 5",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%205,CC-BY-4.0
+CSG-IGXV1-6,"IG XV 1, 6",eteocypriot,False,Amathus,"Ehreninschrift?, eteokyprisch",4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%206,CC-BY-4.0
+CSG-IGXV1-7,"IG XV 1, 7",eteocypriot,False,Amathus,"Ehreninschrift, eteokyprisch und griechisch",330-310,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%207,CC-BY-4.0
+CSG-IGXV1-8,"IG XV 1, 8",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,dicke Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%208,CC-BY-4.0
+CSG-IGXV1-9,"IG XV 1, 9",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Block (Sandstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%209,CC-BY-4.0
+CSG-IGXV1-10,"IG XV 1, 10",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2010,CC-BY-4.0
+CSG-IGXV1-11,"IG XV 1, 11",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2011,CC-BY-4.0
+CSG-IGXV1-12,"IG XV 1, 12",uncertain,False,Amathus,"Inschrift, eteokyprisch?",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2012,CC-BY-4.0
+CSG-IGXV1-13,"IG XV 1, 13",uncertain,False,Amathus,"Grabinschrift, eteokyprisch?",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2013,CC-BY-4.0
+CSG-IGXV1-14,"IG XV 1, 14",eteocypriot,False,Amathus,"Grabinschrift, eteokyprisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2014,CC-BY-4.0
+CSG-IGXV1-15,"IG XV 1, 15",eteocypriot,False,Amathus,"Inschrift, eteokyprisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2015,CC-BY-4.0
+CSG-IGXV1-16,"IG XV 1, 16",eteocypriot,False,unbekannt,"Inschrift, eteokyprisch",4.Jh.,"Stele, opisthograph (Kalkstein)",https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2016,CC-BY-4.0
+CSG-IGXV1-17,"IG XV 1, 17",eteocypriot,False,Amathus,"Grabinschrift, eteokyprisch",Zeit?,Block (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2017,CC-BY-4.0
+CSG-IGXV1-18,"IG XV 1, 18",eteocypriot,False,Amathus,"Weihinschrift?, eteokyprisch",650-500,Gefäß (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2018,CC-BY-4.0
+CSG-IGXV1-19,"IG XV 1, 19",und,False,Amathus,"Einzelbuchstabe, syllabisch",315-310,Statuette (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2019,CC-BY-4.0
+CSG-IGXV1-20,"IG XV 1, 20",und,False,Amathus,"Einzelbuchstabe, syllabisch",750-600,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2020,CC-BY-4.0
+CSG-IGXV1-21,"IG XV 1, 21",und,False,Amathus,"Einzelbuchstabe, syllabisch",7.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2021,CC-BY-4.0
+CSG-IGXV1-22,"IG XV 1, 22",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2022,CC-BY-4.0
+CSG-IGXV1-23,"IG XV 1, 23",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2023,CC-BY-4.0
+CSG-IGXV1-24,"IG XV 1, 24",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2024,CC-BY-4.0
+CSG-IGXV1-25,"IG XV 1, 25",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2025,CC-BY-4.0
+CSG-IGXV1-26,"IG XV 1, 26",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2026,CC-BY-4.0
+CSG-IGXV1-27,"IG XV 1, 27",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2027,CC-BY-4.0
+CSG-IGXV1-28,"IG XV 1, 28",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2028,CC-BY-4.0
+CSG-IGXV1-29,"IG XV 1, 29",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2029,CC-BY-4.0
+CSG-IGXV1-30,"IG XV 1, 30",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2030,CC-BY-4.0
+CSG-IGXV1-31,"IG XV 1, 31",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2031,CC-BY-4.0
+CSG-IGXV1-32,"IG XV 1, 32",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2032,CC-BY-4.0
+CSG-IGXV1-33,"IG XV 1, 33",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2033,CC-BY-4.0
+CSG-IGXV1-34,"IG XV 1, 34",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2034,CC-BY-4.0
+CSG-IGXV1-35,"IG XV 1, 35",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2035,CC-BY-4.0
+CSG-IGXV1-36,"IG XV 1, 36",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2036,CC-BY-4.0
+CSG-IGXV1-37,"IG XV 1, 37",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2037,CC-BY-4.0
+CSG-IGXV1-38,"IG XV 1, 38",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2038,CC-BY-4.0
+CSG-IGXV1-39,"IG XV 1, 39",und,False,Amathus,"Graffito, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2039,CC-BY-4.0
+CSG-IGXV1-40,"IG XV 1, 40",und,False,Amathus,"Einzelbuchstabe, syllabisch",600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2040,CC-BY-4.0
+CSG-IGXV1-41,"IG XV 1, 41",und,False,Amathus,"Graffito, syllabisch",Anfang 5.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2041,CC-BY-4.0
+CSG-IGXV1-42,"IG XV 1, 42",und,False,Amathus,"Einzelbuchstabe, syllabisch",5.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2042,CC-BY-4.0
+CSG-IGXV1-43,"IG XV 1, 43",und,False,Amathus,"Einzelbuchstabe, syllabisch",5.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2043,CC-BY-4.0
+CSG-IGXV1-44,"IG XV 1, 44",und,False,Amathus,"Graffito, syllabisch",475-323,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2044,CC-BY-4.0
+CSG-IGXV1-45,"IG XV 1, 45",und,False,Amathus,"Graffito, syllabisch",475-323,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2045,CC-BY-4.0
+CSG-IGXV1-46,"IG XV 1, 46",uncertain,False,Amathus,"Graffito, eteokyprisch?",475-323,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2046,CC-BY-4.0
+CSG-IGXV1-47,"IG XV 1, 47",und,False,Amathus,"Graffito, syllabisch",475-323,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2047,CC-BY-4.0
+CSG-IGXV1-48,"IG XV 1, 48",und,False,Amathus,"Einzelbuchstabe, syllabisch",475-323,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2048,CC-BY-4.0
+CSG-IGXV1-49,"IG XV 1, 49",und,False,Amathus,"Graffito, syllabisch",4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2049,CC-BY-4.0
+CSG-IGXV1-50,"IG XV 1, 50",und,False,Amathus,"Einzelbuchstabe, syllabisch",4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2050,CC-BY-4.0
+CSG-IGXV1-51,"IG XV 1, 51",und,False,Amathus,"Einzelbuchstabe, syllabisch",4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2051,CC-BY-4.0
+CSG-IGXV1-52,"IG XV 1, 52",und,False,Amathus,"Einzelbuchstabe, syllabisch",4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2052,CC-BY-4.0
+CSG-IGXV1-53,"IG XV 1, 53",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2053,CC-BY-4.0
+CSG-IGXV1-54,"IG XV 1, 54",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2054,CC-BY-4.0
+CSG-IGXV1-55,"IG XV 1, 55",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2055,CC-BY-4.0
+CSG-IGXV1-56,"IG XV 1, 56",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2056,CC-BY-4.0
+CSG-IGXV1-57,"IG XV 1, 57",und,False,Amathus,"Graffito, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2057,CC-BY-4.0
+CSG-IGXV1-58,"IG XV 1, 58",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2058,CC-BY-4.0
+CSG-IGXV1-59,"IG XV 1, 59",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2059,CC-BY-4.0
+CSG-IGXV1-60,"IG XV 1, 60",und,False,Amathus,"Einzelbuchstabe, syllabisch",Zeit?,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2060,CC-BY-4.0
+CSG-IGXV1-61,"IG XV 1, 61",und,False,Amathus,"Einzelbuchstabe, syllabisch",Zeit?,Vasenfuß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2061,CC-BY-4.0
+CSG-IGXV1-62,"IG XV 1, 62",und,False,Amathus,"Einzelbuchstabe, syllabisch",Zeit?,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2062,CC-BY-4.0
+CSG-IGXV1-63,"IG XV 1, 63",und,False,Amathus,"Einzelbuchstabe, syllabisch",Zeit?,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2063,CC-BY-4.0
+CSG-IGXV1-64,"IG XV 1, 64",und,False,Amathus,"Graffito, syllabisch",Zeit?,Pithos (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2064,CC-BY-4.0
+CSG-IGXV1-65,"IG XV 1, 65",und,False,Amathus,"Einzelbuchstabe, syllabisch",Zeit?,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2065,CC-BY-4.0
+CSG-IGXV1-66,"IG XV 1, 66",und,False,Amathus,"Graffito, syllabisch",Zeit?,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2066,CC-BY-4.0
+CSG-IGXV1-67,"IG XV 1, 67",und,False,Amathus,"Graffito, syllabisch",Zeit?,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2067,CC-BY-4.0
+CSG-IGXV1-68,"IG XV 1, 68",und,False,Amathus,"Graffito, syllabisch",750-600,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2068,CC-BY-4.0
+CSG-IGXV1-69,"IG XV 1, 69",grc,True,Amathus,"Graffito, syllabisch",600-475,Becher (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2069,CC-BY-4.0
+CSG-IGXV1-70,"IG XV 1, 70",grc,True,Amathus,"Graffito, syllabisch",600-475,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2070,CC-BY-4.0
+CSG-IGXV1-71,"IG XV 1, 71",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Persischer Becher (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2071,CC-BY-4.0
+CSG-IGXV1-72,"IG XV 1, 72",und,False,Amathus,"Graffito, syllabisch",2.Hälfte 4.Jh.,schwarzfigurige Vase (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2072,CC-BY-4.0
+CSG-IGXV1-73,"IG XV 1, 73",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,schwarzfigurige Vase (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2073,CC-BY-4.0
+CSG-IGXV1-74,"IG XV 1, 74",und,False,Amathus,"Graffito, syllabisch",3.Jh.,Trinkschale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2074,CC-BY-4.0
+CSG-IGXV1-75,"IG XV 1, 75",und,False,Amathus,"Graffito, syllabisch",1.Hälfte 7.Jh.,bemalte Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2075,CC-BY-4.0
+CSG-IGXV1-76,"IG XV 1, 76",und,False,Amathus,"Graffito, syllabisch",600-475,Gefäß (Marmor),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2076,CC-BY-4.0
+CSG-IGXV1-77,"IG XV 1, 77",und,False,Amathus,"Graffito, syllabisch",525-500,Vasenfuß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2077,CC-BY-4.0
+CSG-IGXV1-78,"IG XV 1, 78",grc,True,Amathus,"Graffito, syllabisch",6.-5.Jh.,kleine Urne (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2078,CC-BY-4.0
+CSG-IGXV1-79,"IG XV 1, 79",und,False,Amathus,"Graffito, syllabisch",6.-5.Jh.,kleine Urne (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2079,CC-BY-4.0
+CSG-IGXV1-80,"IG XV 1, 80",und,False,Amathus,"Graffito, syllabisch",6.-4.Jh.,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2080,CC-BY-4.0
+CSG-IGXV1-81,"IG XV 1, 81",und,False,Amathus,"Einzelbuchstabe, syllabisch",6.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2081,CC-BY-4.0
+CSG-IGXV1-82,"IG XV 1, 82",und,False,Amathus,"Graffito, syllabisch",4.Jh.,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2082,CC-BY-4.0
+CSG-IGXV1-83,"IG XV 1, 83",und,False,Amathus,"Einzelbuchstabe, syllabisch",2.Hälfte 4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2083,CC-BY-4.0
+CSG-IGXV1-84,"IG XV 1, 84",grc,True,Amathus,"Inschrift, syllabisch",475-400,Skarabäus (Jaspis),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2084,CC-BY-4.0
+CSG-IGXV1-85,"IG XV 1, 85",grc,True,Amathus,"Münzlegende des Königs Rhoikos I., syllabisch",460-450,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2085,CC-BY-4.0
+CSG-IGXV1-86,"IG XV 1, 86",und,False,Amathus,"Münzlegende des Königs Mo( ), syllabisch",450-430,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2086,CC-BY-4.0
+CSG-IGXV1-87,"IG XV 1, 87",und,False,Amathus,"Münzlegende des Königs Rhoikos II., syllabisch",400-380,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2087,CC-BY-4.0
+CSG-IGXV1-88,"IG XV 1, 88",grc,True,Amathus,"Münzlegende des Königs Pyrrhus, syllabisch",um 385,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2088,CC-BY-4.0
+CSG-IGXV1-89,"IG XV 1, 89",grc,True,Amathus,"Münzlegende des Königs Zotimos, syllabisch",385-380,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2089,CC-BY-4.0
+CSG-IGXV1-90,"IG XV 1, 90",grc,True,Amathus,"Münzlegende des Königs Eutimos, syllabisch",385-380,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2090,CC-BY-4.0
+CSG-IGXV1-91,"IG XV 1, 91",grc,True,Amathus,"Münzlegende des Königs Lysandros, syllabisch",380-370,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2091,CC-BY-4.0
+CSG-IGXV1-92,"IG XV 1, 92",grc,True,Amathus,"Münzlegende des Königs Apipalos, syllabisch",370-360,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2092,CC-BY-4.0
+CSG-IGXV1-93,"IG XV 1, 93",grc,True,Kurion,"Weihinschrift?, syllabisch",525-450,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2093,CC-BY-4.0
+CSG-IGXV1-94,"IG XV 1, 94",grc,True,Kurion,"Weihinschrift, syllabisch",4.Jh.,Basis (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2094,CC-BY-4.0
+CSG-IGXV1-95,"IG XV 1, 95",grc,True,Kurion,"Weihinschrift, alphabetisch und syllabisch",2.Hälfte 4.Jh.,Basis (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2095,CC-BY-4.0
+CSG-IGXV1-96,"IG XV 1, 96",grc,True,Kurion,"Weihinschrift?, syllabisch",7.-6.Jh.,Block (Sandstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2096,CC-BY-4.0
+CSG-IGXV1-97,"IG XV 1, 97",grc,True,Kurion,"Weihinschrift?, syllabisch",6.Jh.,Statuenbasis (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2097,CC-BY-4.0
+CSG-IGXV1-98,"IG XV 1, 98",und,False,Kurion,"Weihinschrift?, syllabisch",5.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2098,CC-BY-4.0
+CSG-IGXV1-99,"IG XV 1, 99",uncertain,False,Kurion,"Weihinschrift?, eteokyprisch?",4.Jh.,Weihwasserbecken (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%2099,CC-BY-4.0
+CSG-IGXV1-100,"IG XV 1, 100",und,False,Kurion,"Weihinschrift?, syllabisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20100,CC-BY-4.0
+CSG-IGXV1-101,"IG XV 1, 101",grc,True,Kurion,"Grabinschrift?, syllabisch",4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20101,CC-BY-4.0
+CSG-IGXV1-102,"IG XV 1, 102",und,False,Kurion,"Inschriften, syllabisch und phönizisch",7.Jh.,Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20102,CC-BY-4.0
+CSG-IGXV1-103,"IG XV 1, 103",und,False,Kurion,"Grabinschrift?, syllabisch",6.Jh.,Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20103,CC-BY-4.0
+CSG-IGXV1-104,"IG XV 1, 104",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20104,CC-BY-4.0
+CSG-IGXV1-105,"IG XV 1, 105",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20105,CC-BY-4.0
+CSG-IGXV1-106,"IG XV 1, 106",und,False,Kurion,"Weihinschrift, syllabisch",2.Hälfte 5.Jh.,Statue (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20106,CC-BY-4.0
+CSG-IGXV1-107,"IG XV 1, 107",und,False,Kurion,"Einzelbuchstaben, syllabisch",425-350,Statue (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20107,CC-BY-4.0
+CSG-IGXV1-108,"IG XV 1, 108",grc,True,Kurion,"Weihinschrift, syllabisch",425-375,Statue (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20108,CC-BY-4.0
+CSG-IGXV1-109,"IG XV 1, 109",und,False,Kurion,"Weihinschrift?, syllabisch",1.Hälfte 3.Jh.,Statue (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20109,CC-BY-4.0
+CSG-IGXV1-110,"IG XV 1, 110",eteocypriot,False,Kurion,"Weihinschrift?, eteokyprisch oder syllabisch?",1.Hälfte 3.Jh.,Statue (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20110,CC-BY-4.0
+CSG-IGXV1-111,"IG XV 1, 111",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20111,CC-BY-4.0
+CSG-IGXV1-112,"IG XV 1, 112",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20112,CC-BY-4.0
+CSG-IGXV1-113,"IG XV 1, 113",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20113,CC-BY-4.0
+CSG-IGXV1-114,"IG XV 1, 114",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20114,CC-BY-4.0
+CSG-IGXV1-115,"IG XV 1, 115",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20115,CC-BY-4.0
+CSG-IGXV1-116,"IG XV 1, 116",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20116,CC-BY-4.0
+CSG-IGXV1-117,"IG XV 1, 117",grc,True,Kurion,"Grabinschrift, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20117,CC-BY-4.0
+CSG-IGXV1-118,"IG XV 1, 118",und,False,Kurion,"Grabinschrift?, syllabisch",6.Jh.,geglättete Fläche (natürlicher Fels),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20118,CC-BY-4.0
+CSG-IGXV1-119,"IG XV 1, 119",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 710-675,Schale (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20119,CC-BY-4.0
+CSG-IGXV1-120,"IG XV 1, 120",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 710-675 (I) / nach 498 (II),Schale (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20120,CC-BY-4.0
+CSG-IGXV1-121,"IG XV 1, 121",grc,True,Kurion,"Besitzerinschrift, syllabisch",1.Hälfte 7.Jh.,Armreif (Gold),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20121,CC-BY-4.0
+CSG-IGXV1-122,"IG XV 1, 122",grc,True,Kurion,"Besitzerinschrift, syllabisch",1.Hälfte 7.Jh.,Armreif (Gold),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20122,CC-BY-4.0
+CSG-IGXV1-123,"IG XV 1, 123",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 675-625,Schale (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20123,CC-BY-4.0
+CSG-IGXV1-124,"IG XV 1, 124",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 675-625,Schale (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20124,CC-BY-4.0
+CSG-IGXV1-125,"IG XV 1, 125",grc,True,Kurion,"Weihinschrift, syllabisch",6.Jh.,Schale (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20125,CC-BY-4.0
+CSG-IGXV1-126,"IG XV 1, 126",grc,True,Kurion,"Weihinschrift, syllabisch",570-545,Eimer (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20126,CC-BY-4.0
+CSG-IGXV1-127,"IG XV 1, 127",grc,True,Kurion,"Besitzerinschrift, syllabisch",6.-4.Jh.,kleines Fass (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20127,CC-BY-4.0
+CSG-IGXV1-128,"IG XV 1, 128",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 475-323,Messer (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20128,CC-BY-4.0
+CSG-IGXV1-129,"IG XV 1, 129",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20129,CC-BY-4.0
+CSG-IGXV1-130,"IG XV 1, 130",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20130,CC-BY-4.0
+CSG-IGXV1-131,"IG XV 1, 131",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20131,CC-BY-4.0
+CSG-IGXV1-132,"IG XV 1, 132",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20132,CC-BY-4.0
+CSG-IGXV1-133,"IG XV 1, 133",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20133,CC-BY-4.0
+CSG-IGXV1-134,"IG XV 1, 134",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20134,CC-BY-4.0
+CSG-IGXV1-135,"IG XV 1, 135",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20135,CC-BY-4.0
+CSG-IGXV1-136,"IG XV 1, 136",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20136,CC-BY-4.0
+CSG-IGXV1-137,"IG XV 1, 137",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20137,CC-BY-4.0
+CSG-IGXV1-138,"IG XV 1, 138",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20138,CC-BY-4.0
+CSG-IGXV1-139,"IG XV 1, 139",und,False,Kurion,"Graffito, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20139,CC-BY-4.0
+CSG-IGXV1-140,"IG XV 1, 140",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20140,CC-BY-4.0
+CSG-IGXV1-141,"IG XV 1, 141",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20141,CC-BY-4.0
+CSG-IGXV1-142,"IG XV 1, 142",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20142,CC-BY-4.0
+CSG-IGXV1-143,"IG XV 1, 143",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20143,CC-BY-4.0
+CSG-IGXV1-144,"IG XV 1, 144",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20144,CC-BY-4.0
+CSG-IGXV1-145,"IG XV 1, 145",und,False,Kurion,"Graffito, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20145,CC-BY-4.0
+CSG-IGXV1-146,"IG XV 1, 146",und,False,Kurion,"Graffito, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20146,CC-BY-4.0
+CSG-IGXV1-147,"IG XV 1, 147",und,False,Kurion,"Einzelbuchstabe, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20147,CC-BY-4.0
+CSG-IGXV1-148,"IG XV 1, 148",und,False,Kurion,"Graffito, syllabisch",um 750-480,Henkel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20148,CC-BY-4.0
+CSG-IGXV1-149,"IG XV 1, 149",und,False,Kurion,"Graffito, syllabisch",um 750-480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20149,CC-BY-4.0
+CSG-IGXV1-151,"IG XV 1, 151",grc,True,Kurion,"Besitzerinschrift, syllabisch",2.Hälfte 6.Jh.,Oinochoe (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20151,CC-BY-4.0
+CSG-IGXV1-152,"IG XV 1, 152",uncertain,False,Kurion,"Besitzerinschrift, eteokyprisch?",600-475,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20152,CC-BY-4.0
+CSG-IGXV1-153,"IG XV 1, 153",grc,True,Kurion,"Besitzerinschrift, syllabisch",5.Jh.?,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20153,CC-BY-4.0
+CSG-IGXV1-154,"IG XV 1, 154",und,False,Kurion,"Einzelbuchstabe, syllabisch",6.-5.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20154,CC-BY-4.0
+CSG-IGXV1-155,"IG XV 1, 155",eteocypriot,False,Kurion,"Besitzerinschrift?, eteokyprisch",750-475,Siegel in Form eines Skarabäus (Chalzedon),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20155,CC-BY-4.0
+CSG-IGXV1-156,"IG XV 1, 156",grc,True,Kurion,"Besitzerinschrift, syllabisch",7.-6.Jh.,Siegel in Form eines Skarabäus (Achat),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20156,CC-BY-4.0
+CSG-IGXV1-157,"IG XV 1, 157",grc,True,Kurion,"Besitzerinschrift, syllabisch",um 500,Siegel in Form eines Skarabäus (Obsidian),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20157,CC-BY-4.0
+CSG-IGXV1-158,"IG XV 1, 158",uncertain,False,Kurion,"Besitzerinschrift?, eteokyprisch?",um 500,Siegel in Form eines Skarabäus (Quarz),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20158,CC-BY-4.0
+CSG-IGXV1-159,"IG XV 1, 159",und,False,Vássa Koilaníou,"Grabinschrift?, syllabisch",5.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20159,CC-BY-4.0
+CSG-IGXV1-160,"IG XV 1, 160",grc,True,Drýmou,"Weihinschrift, syllabisch",5.-3.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20160,CC-BY-4.0
+CSG-IGXV1-161,"IG XV 1, 161",grc,True,Drýmou,"Weihinschrift, syllabisch",5.-3.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20161,CC-BY-4.0
+CSG-IGXV1-162,"IG XV 1, 162",grc,True,Drýmou,"Grabinschrift, syllabisch",5.-3.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20162,CC-BY-4.0
+CSG-IGXV1-163,"IG XV 1, 163",grc,True,Drýmou,"Grabinschrift, syllabisch",5.-3.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20163,CC-BY-4.0
+CSG-IGXV1-164,"IG XV 1, 164",grc,True,Drýmou,"Grabinschrift, syllabisch",5.-3.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20164,CC-BY-4.0
+CSG-IGXV1-165,"IG XV 1, 165",grc,True,Marion,"Grabinschrift, syllabisch",2.Hälfte 7.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20165,CC-BY-4.0
+CSG-IGXV1-166,"IG XV 1, 166",grc,True,Marion,Grabinschrift,1.Hälfte 6.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20166,CC-BY-4.0
+CSG-IGXV1-167,"IG XV 1, 167",grc,True,Marion,"Grabinschrift, syllabisch und alphabetisch",6.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20167,CC-BY-4.0
+CSG-IGXV1-168,"IG XV 1, 168",grc,True,Marion,"Grabinschrift, syllabisch",6.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20168,CC-BY-4.0
+CSG-IGXV1-169,"IG XV 1, 169",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20169,CC-BY-4.0
+CSG-IGXV1-170,"IG XV 1, 170",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20170,CC-BY-4.0
+CSG-IGXV1-171,"IG XV 1, 171",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20171,CC-BY-4.0
+CSG-IGXV1-172,"IG XV 1, 172",grc,True,Marion,Grabinschrift,6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20172,CC-BY-4.0
+CSG-IGXV1-173,"IG XV 1, 173",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20173,CC-BY-4.0
+CSG-IGXV1-174,"IG XV 1, 174",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20174,CC-BY-4.0
+CSG-IGXV1-175,"IG XV 1, 175",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20175,CC-BY-4.0
+CSG-IGXV1-176,"IG XV 1, 176",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20176,CC-BY-4.0
+CSG-IGXV1-177,"IG XV 1, 177",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20177,CC-BY-4.0
+CSG-IGXV1-178,"IG XV 1, 178",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Grabdeckel (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20178,CC-BY-4.0
+CSG-IGXV1-179,"IG XV 1, 179",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20179,CC-BY-4.0
+CSG-IGXV1-180,"IG XV 1, 180",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20180,CC-BY-4.0
+CSG-IGXV1-181,"IG XV 1, 181",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20181,CC-BY-4.0
+CSG-IGXV1-182,"IG XV 1, 182",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20182,CC-BY-4.0
+CSG-IGXV1-183,"IG XV 1, 183",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Giebel-Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20183,CC-BY-4.0
+CSG-IGXV1-184,"IG XV 1, 184",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20184,CC-BY-4.0
+CSG-IGXV1-185,"IG XV 1, 185",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20185,CC-BY-4.0
+CSG-IGXV1-186,"IG XV 1, 186",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20186,CC-BY-4.0
+CSG-IGXV1-187,"IG XV 1, 187",grc,True,Marion,Grabinschrift,6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20187,CC-BY-4.0
+CSG-IGXV1-188,"IG XV 1, 188",grc,True,Marion,Grabinschrift,6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20188,CC-BY-4.0
+CSG-IGXV1-189,"IG XV 1, 189",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20189,CC-BY-4.0
+CSG-IGXV1-190,"IG XV 1, 190",grc,True,Marion,Grabinschrift,6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20190,CC-BY-4.0
+CSG-IGXV1-191,"IG XV 1, 191",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20191,CC-BY-4.0
+CSG-IGXV1-192,"IG XV 1, 192",grc,True,Marion,Grabinschrift,6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20192,CC-BY-4.0
+CSG-IGXV1-193,"IG XV 1, 193",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20193,CC-BY-4.0
+CSG-IGXV1-194,"IG XV 1, 194",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20194,CC-BY-4.0
+CSG-IGXV1-195,"IG XV 1, 195",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20195,CC-BY-4.0
+CSG-IGXV1-196,"IG XV 1, 196",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20196,CC-BY-4.0
+CSG-IGXV1-197,"IG XV 1, 197",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20197,CC-BY-4.0
+CSG-IGXV1-198,"IG XV 1, 198",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20198,CC-BY-4.0
+CSG-IGXV1-199,"IG XV 1, 199",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20199,CC-BY-4.0
+CSG-IGXV1-200,"IG XV 1, 200",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Giebel-Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20200,CC-BY-4.0
+CSG-IGXV1-201,"IG XV 1, 201",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20201,CC-BY-4.0
+CSG-IGXV1-202,"IG XV 1, 202",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20202,CC-BY-4.0
+CSG-IGXV1-203,"IG XV 1, 203",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20203,CC-BY-4.0
+CSG-IGXV1-204,"IG XV 1, 204",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20204,CC-BY-4.0
+CSG-IGXV1-205,"IG XV 1, 205",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20205,CC-BY-4.0
+CSG-IGXV1-206,"IG XV 1, 206",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20206,CC-BY-4.0
+CSG-IGXV1-207,"IG XV 1, 207",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20207,CC-BY-4.0
+CSG-IGXV1-208,"IG XV 1, 208",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20208,CC-BY-4.0
+CSG-IGXV1-209,"IG XV 1, 209",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20209,CC-BY-4.0
+CSG-IGXV1-210,"IG XV 1, 210",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20210,CC-BY-4.0
+CSG-IGXV1-211,"IG XV 1, 211",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20211,CC-BY-4.0
+CSG-IGXV1-212,"IG XV 1, 212",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20212,CC-BY-4.0
+CSG-IGXV1-213,"IG XV 1, 213",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20213,CC-BY-4.0
+CSG-IGXV1-214,"IG XV 1, 214",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20214,CC-BY-4.0
+CSG-IGXV1-215,"IG XV 1, 215",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20215,CC-BY-4.0
+CSG-IGXV1-216,"IG XV 1, 216",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20216,CC-BY-4.0
+CSG-IGXV1-217,"IG XV 1, 217",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20217,CC-BY-4.0
+CSG-IGXV1-218,"IG XV 1, 218",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20218,CC-BY-4.0
+CSG-IGXV1-219,"IG XV 1, 219",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20219,CC-BY-4.0
+CSG-IGXV1-220,"IG XV 1, 220",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20220,CC-BY-4.0
+CSG-IGXV1-221,"IG XV 1, 221",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20221,CC-BY-4.0
+CSG-IGXV1-222,"IG XV 1, 222",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20222,CC-BY-4.0
+CSG-IGXV1-223,"IG XV 1, 223",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20223,CC-BY-4.0
+CSG-IGXV1-224,"IG XV 1, 224",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20224,CC-BY-4.0
+CSG-IGXV1-225,"IG XV 1, 225",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20225,CC-BY-4.0
+CSG-IGXV1-226,"IG XV 1, 226",und,False,Marion,"Einzelbuchstaben, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20226,CC-BY-4.0
+CSG-IGXV1-227,"IG XV 1, 227",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20227,CC-BY-4.0
+CSG-IGXV1-228,"IG XV 1, 228",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20228,CC-BY-4.0
+CSG-IGXV1-229,"IG XV 1, 229",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20229,CC-BY-4.0
+CSG-IGXV1-230,"IG XV 1, 230",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20230,CC-BY-4.0
+CSG-IGXV1-231,"IG XV 1, 231",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20231,CC-BY-4.0
+CSG-IGXV1-232,"IG XV 1, 232",grc,True,Marion,"Grabinschrift, syllabisch",5.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20232,CC-BY-4.0
+CSG-IGXV1-233,"IG XV 1, 233",grc,True,Marion,"Grabinschrift, syllabisch",um 420,Giebel-Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20233,CC-BY-4.0
+CSG-IGXV1-234,"IG XV 1, 234",grc,True,Marion,"Grabinschrift, syllabisch",400-375,Giebel-Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20234,CC-BY-4.0
+CSG-IGXV1-235,"IG XV 1, 235",grc,True,Marion,"Grabinschrift, syllabisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20235,CC-BY-4.0
+CSG-IGXV1-236,"IG XV 1, 236",grc,True,Marion,"Grabinschrift, syllabisch und alphabetisch",4.Jh.,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20236,CC-BY-4.0
+CSG-IGXV1-237-I,"IG XV 1, 237(I)",grc,True,Marion,"Grabinschrift, syllabisch",Anfang 4.Jh.,Ädikula-Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20237%28I%29,CC-BY-4.0
+CSG-IGXV1-237-II,"IG XV 1, 237(II)",und,False,Marion,Grabepigramm,Ende 4.Jh.,Ädikula-Stele mit Relief (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20237%28II%29,CC-BY-4.0
+CSG-IGXV1-238,"IG XV 1, 238",grc,True,Marion,"Grabinschrift, syllabisch",1.Hälfte 4.Jh.?,Blöcke (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20238,CC-BY-4.0
+CSG-IGXV1-239,"IG XV 1, 239",grc,True,Marion,"Grabinschrift?, syllabisch",6.-4.Jh.?,Stele (Sandstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20239,CC-BY-4.0
+CSG-IGXV1-240,"IG XV 1, 240",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.?,Stele (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20240,CC-BY-4.0
+CSG-IGXV1-241,"IG XV 1, 241",grc,True,Marion,"Invokation, syllabisch",6.-4.Jh.?,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20241,CC-BY-4.0
+CSG-IGXV1-242,"IG XV 1, 242",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.?,Platte (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20242,CC-BY-4.0
+CSG-IGXV1-243,"IG XV 1, 243",und,False,Marion,"Grabinschrift?, syllabisch",6.-4.Jh.?,runder Block (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20243,CC-BY-4.0
+CSG-IGXV1-244,"IG XV 1, 244",grc,True,Marion,"Grabinschrift, syllabisch",6.-4.Jh.?,Block (Sandstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20244,CC-BY-4.0
+CSG-IGXV1-245,"IG XV 1, 245",grc,True,Marion,"Weihinschrift, syllabisch",5.-4.Jh.,Statue eines Löwen (Kalkstein),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20245,CC-BY-4.0
+CSG-IGXV1-246,"IG XV 1, 246",uncertain,False,Marion,"Inschrift, eteokyprisch?",9.Jh.,Kultmesser (Eisen),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20246,CC-BY-4.0
+CSG-IGXV1-247,"IG XV 1, 247",grc,True,Marion,"Besitzerinschrift, syllabisch",750-600,Schale (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20247,CC-BY-4.0
+CSG-IGXV1-248,"IG XV 1, 248",grc,True,Marion,"Besitzerinschrift, syllabisch",2.Hälfte 5.Jh.,Ring (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20248,CC-BY-4.0
+CSG-IGXV1-249,"IG XV 1, 249",und,False,Marion,"Besitzerinschrift?, syllabisch",470-310,Schale (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20249,CC-BY-4.0
+CSG-IGXV1-250,"IG XV 1, 250",und,False,Marion,"Besitzerinschrift?, syllabisch",600-475,Siegel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20250,CC-BY-4.0
+CSG-IGXV1-251,"IG XV 1, 251",und,False,Marion,"Besitzerinschrift?, syllabisch",600-570,Vasendeckel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20251,CC-BY-4.0
+CSG-IGXV1-252,"IG XV 1, 252",grc,True,Marion,Besitzerinschrift?,470-400,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20252,CC-BY-4.0
+CSG-IGXV1-253,"IG XV 1, 253",und,False,Marion,Einzelbuchstaben,550-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20253,CC-BY-4.0
+CSG-IGXV1-254-1,"IG XV 1, 254(1)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20254%281%29,CC-BY-4.0
+CSG-IGXV1-255-1,"IG XV 1, 255(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20255%281%29,CC-BY-4.0
+CSG-IGXV1-255-2,"IG XV 1, 255(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20255%282%29,CC-BY-4.0
+CSG-IGXV1-255-3,"IG XV 1, 255(3)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20255%283%29,CC-BY-4.0
+CSG-IGXV1-255-4,"IG XV 1, 255(4)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20255%284%29,CC-BY-4.0
+CSG-IGXV1-256-1,"IG XV 1, 256(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20256%281%29,CC-BY-4.0
+CSG-IGXV1-257-1,"IG XV 1, 257(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20257%281%29,CC-BY-4.0
+CSG-IGXV1-257-2,"IG XV 1, 257(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20257%282%29,CC-BY-4.0
+CSG-IGXV1-258-1,"IG XV 1, 258(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20258%281%29,CC-BY-4.0
+CSG-IGXV1-259-1,"IG XV 1, 259(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400-380,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20259%281%29,CC-BY-4.0
+CSG-IGXV1-260-1,"IG XV 1, 260(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20260%281%29,CC-BY-4.0
+CSG-IGXV1-261-1,"IG XV 1, 261(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20261%281%29,CC-BY-4.0
+CSG-IGXV1-261-2,"IG XV 1, 261(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400-375,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20261%282%29,CC-BY-4.0
+CSG-IGXV1-261-3,"IG XV 1, 261(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 380,Fuß eines Gefäßes (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20261%283%29,CC-BY-4.0
+CSG-IGXV1-261-4,"IG XV 1, 261(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350-325,Fuß einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20261%284%29,CC-BY-4.0
+CSG-IGXV1-261-5,"IG XV 1, 261(5)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20261%285%29,CC-BY-4.0
+CSG-IGXV1-262-1,"IG XV 1, 262(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20262%281%29,CC-BY-4.0
+CSG-IGXV1-262-2,"IG XV 1, 262(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20262%282%29,CC-BY-4.0
+CSG-IGXV1-262-3,"IG XV 1, 262(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20262%283%29,CC-BY-4.0
+CSG-IGXV1-262-4,"IG XV 1, 262(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 310,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20262%284%29,CC-BY-4.0
+CSG-IGXV1-263-1,"IG XV 1, 263(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20263%281%29,CC-BY-4.0
+CSG-IGXV1-263-2,"IG XV 1, 263(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20263%282%29,CC-BY-4.0
+CSG-IGXV1-263-3,"IG XV 1, 263(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20263%283%29,CC-BY-4.0
+CSG-IGXV1-263-4,"IG XV 1, 263(4)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20263%284%29,CC-BY-4.0
+CSG-IGXV1-264-1,"IG XV 1, 264(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20264%281%29,CC-BY-4.0
+CSG-IGXV1-265-1,"IG XV 1, 265(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20265%281%29,CC-BY-4.0
+CSG-IGXV1-266,"IG XV 1, 266",und,False,Marion,"Einzelbuchstaben und Zahlzeichen, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20266,CC-BY-4.0
+CSG-IGXV1-267-1,"IG XV 1, 267(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20267%281%29,CC-BY-4.0
+CSG-IGXV1-268-1,"IG XV 1, 268(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%281%29,CC-BY-4.0
+CSG-IGXV1-268-2,"IG XV 1, 268(2)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%282%29,CC-BY-4.0
+CSG-IGXV1-268-3,"IG XV 1, 268(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%283%29,CC-BY-4.0
+CSG-IGXV1-268-4,"IG XV 1, 268(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%284%29,CC-BY-4.0
+CSG-IGXV1-268-5,"IG XV 1, 268(5)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%285%29,CC-BY-4.0
+CSG-IGXV1-268-6,"IG XV 1, 268(6)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%286%29,CC-BY-4.0
+CSG-IGXV1-268-7,"IG XV 1, 268(7)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20268%287%29,CC-BY-4.0
+CSG-IGXV1-269-1,"IG XV 1, 269(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20269%281%29,CC-BY-4.0
+CSG-IGXV1-270-1,"IG XV 1, 270(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20270%281%29,CC-BY-4.0
+CSG-IGXV1-271-1,"IG XV 1, 271(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%281%29,CC-BY-4.0
+CSG-IGXV1-271-2,"IG XV 1, 271(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%282%29,CC-BY-4.0
+CSG-IGXV1-271-3,"IG XV 1, 271(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%283%29,CC-BY-4.0
+CSG-IGXV1-271-4,"IG XV 1, 271(4)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%284%29,CC-BY-4.0
+CSG-IGXV1-271-5,"IG XV 1, 271(5)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%285%29,CC-BY-4.0
+CSG-IGXV1-271-6,"IG XV 1, 271(6)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20271%286%29,CC-BY-4.0
+CSG-IGXV1-272-1,"IG XV 1, 272(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 480-450,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20272%281%29,CC-BY-4.0
+CSG-IGXV1-272-2,"IG XV 1, 272(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20272%282%29,CC-BY-4.0
+CSG-IGXV1-272-3,"IG XV 1, 272(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20272%283%29,CC-BY-4.0
+CSG-IGXV1-272-4,"IG XV 1, 272(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20272%284%29,CC-BY-4.0
+CSG-IGXV1-273-1,"IG XV 1, 273(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20273%281%29,CC-BY-4.0
+CSG-IGXV1-273-2,"IG XV 1, 273(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20273%282%29,CC-BY-4.0
+CSG-IGXV1-274-1,"IG XV 1, 274(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20274%281%29,CC-BY-4.0
+CSG-IGXV1-275-1,"IG XV 1, 275(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 500,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%281%29,CC-BY-4.0
+CSG-IGXV1-275-2,"IG XV 1, 275(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%282%29,CC-BY-4.0
+CSG-IGXV1-275-3,"IG XV 1, 275(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%283%29,CC-BY-4.0
+CSG-IGXV1-275-4,"IG XV 1, 275(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%284%29,CC-BY-4.0
+CSG-IGXV1-275-5,"IG XV 1, 275(5)",und,False,Marion,"Einzelbuchstabe, alphabetisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%285%29,CC-BY-4.0
+CSG-IGXV1-275-6,"IG XV 1, 275(6)",und,False,Marion,"Einzelbuchstabe, alphabetisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%286%29,CC-BY-4.0
+CSG-IGXV1-275-7,"IG XV 1, 275(7)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20275%287%29,CC-BY-4.0
+CSG-IGXV1-276-1,"IG XV 1, 276(1)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 500-480,Kylix (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20276%281%29,CC-BY-4.0
+CSG-IGXV1-277-1,"IG XV 1, 277(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20277%281%29,CC-BY-4.0
+CSG-IGXV1-278-1,"IG XV 1, 278(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20278%281%29,CC-BY-4.0
+CSG-IGXV1-279-1,"IG XV 1, 279(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20279%281%29,CC-BY-4.0
+CSG-IGXV1-279-2,"IG XV 1, 279(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20279%282%29,CC-BY-4.0
+CSG-IGXV1-279-3,"IG XV 1, 279(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20279%283%29,CC-BY-4.0
+CSG-IGXV1-279-4,"IG XV 1, 279(4)",und,False,Marion,"Zahlzeichen, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20279%284%29,CC-BY-4.0
+CSG-IGXV1-280-1,"IG XV 1, 280(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20280%281%29,CC-BY-4.0
+CSG-IGXV1-281-1,"IG XV 1, 281(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%281%29,CC-BY-4.0
+CSG-IGXV1-281-2,"IG XV 1, 281(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%282%29,CC-BY-4.0
+CSG-IGXV1-281-3,"IG XV 1, 281(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%283%29,CC-BY-4.0
+CSG-IGXV1-281-4,"IG XV 1, 281(4)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%284%29,CC-BY-4.0
+CSG-IGXV1-281-5,"IG XV 1, 281(5)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%285%29,CC-BY-4.0
+CSG-IGXV1-281-6,"IG XV 1, 281(6)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20281%286%29,CC-BY-4.0
+CSG-IGXV1-282-1,"IG XV 1, 282(1)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20282%281%29,CC-BY-4.0
+CSG-IGXV1-282-2,"IG XV 1, 282(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20282%282%29,CC-BY-4.0
+CSG-IGXV1-282-3,"IG XV 1, 282(3)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20282%283%29,CC-BY-4.0
+CSG-IGXV1-282-4,"IG XV 1, 282(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20282%284%29,CC-BY-4.0
+CSG-IGXV1-283-1,"IG XV 1, 283(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%281%29,CC-BY-4.0
+CSG-IGXV1-283-2,"IG XV 1, 283(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%282%29,CC-BY-4.0
+CSG-IGXV1-283-3,"IG XV 1, 283(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%283%29,CC-BY-4.0
+CSG-IGXV1-283-4,"IG XV 1, 283(4)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%284%29,CC-BY-4.0
+CSG-IGXV1-283-5,"IG XV 1, 283(5)",und,False,Marion,"Besitzerinschrift, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%285%29,CC-BY-4.0
+CSG-IGXV1-283-6,"IG XV 1, 283(6)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350-325,Salzschale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%286%29,CC-BY-4.0
+CSG-IGXV1-283-7,"IG XV 1, 283(7)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350-325,Salzschale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%287%29,CC-BY-4.0
+CSG-IGXV1-283-8,"IG XV 1, 283(8)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%288%29,CC-BY-4.0
+CSG-IGXV1-283-9,"IG XV 1, 283(9)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325-310,Fuß einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%289%29,CC-BY-4.0
+CSG-IGXV1-283-10,"IG XV 1, 283(10)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Fuß einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2810%29,CC-BY-4.0
+CSG-IGXV1-283-11,"IG XV 1, 283(11)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2811%29,CC-BY-4.0
+CSG-IGXV1-283-12,"IG XV 1, 283(12)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2812%29,CC-BY-4.0
+CSG-IGXV1-283-13,"IG XV 1, 283(13)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2813%29,CC-BY-4.0
+CSG-IGXV1-283-14,"IG XV 1, 283(14)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2814%29,CC-BY-4.0
+CSG-IGXV1-283-15,"IG XV 1, 283(15)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2815%29,CC-BY-4.0
+CSG-IGXV1-283-16,"IG XV 1, 283(16)",und,False,Marion,"Einzelbuchstabe, syllabisch?",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20283%2816%29,CC-BY-4.0
+CSG-IGXV1-284-1,"IG XV 1, 284(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20284%281%29,CC-BY-4.0
+CSG-IGXV1-284-2,"IG XV 1, 284(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20284%282%29,CC-BY-4.0
+CSG-IGXV1-284-3,"IG XV 1, 284(3)",und,False,Marion,"Zahlzeichen, alphabetisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20284%283%29,CC-BY-4.0
+CSG-IGXV1-284-4,"IG XV 1, 284(4)",und,False,Marion,"Einzelbuchstaben, phönizisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20284%284%29,CC-BY-4.0
+CSG-IGXV1-285-1,"IG XV 1, 285(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 500,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20285%281%29,CC-BY-4.0
+CSG-IGXV1-285-2,"IG XV 1, 285(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20285%282%29,CC-BY-4.0
+CSG-IGXV1-285-3,"IG XV 1, 285(3)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20285%283%29,CC-BY-4.0
+CSG-IGXV1-286-1,"IG XV 1, 286(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20286%281%29,CC-BY-4.0
+CSG-IGXV1-286-2,"IG XV 1, 286(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20286%282%29,CC-BY-4.0
+CSG-IGXV1-286-3,"IG XV 1, 286(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20286%283%29,CC-BY-4.0
+CSG-IGXV1-287-1,"IG XV 1, 287(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%281%29,CC-BY-4.0
+CSG-IGXV1-287-2,"IG XV 1, 287(2)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%282%29,CC-BY-4.0
+CSG-IGXV1-287-3,"IG XV 1, 287(3)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%283%29,CC-BY-4.0
+CSG-IGXV1-287-4,"IG XV 1, 287(4)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%284%29,CC-BY-4.0
+CSG-IGXV1-287-5,"IG XV 1, 287(5)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%285%29,CC-BY-4.0
+CSG-IGXV1-287-6,"IG XV 1, 287(6)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20287%286%29,CC-BY-4.0
+CSG-IGXV1-288-1,"IG XV 1, 288(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20288%281%29,CC-BY-4.0
+CSG-IGXV1-288-2,"IG XV 1, 288(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20288%282%29,CC-BY-4.0
+CSG-IGXV1-288-3,"IG XV 1, 288(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20288%283%29,CC-BY-4.0
+CSG-IGXV1-288-4,"IG XV 1, 288(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20288%284%29,CC-BY-4.0
+CSG-IGXV1-288-5,"IG XV 1, 288(5)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20288%285%29,CC-BY-4.0
+CSG-IGXV1-289-1,"IG XV 1, 289(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20289%281%29,CC-BY-4.0
+CSG-IGXV1-289-2,"IG XV 1, 289(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20289%282%29,CC-BY-4.0
+CSG-IGXV1-289-3,"IG XV 1, 289(3)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20289%283%29,CC-BY-4.0
+CSG-IGXV1-290-1,"IG XV 1, 290(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20290%281%29,CC-BY-4.0
+CSG-IGXV1-290-2,"IG XV 1, 290(2)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Boden einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20290%282%29,CC-BY-4.0
+CSG-IGXV1-290-3,"IG XV 1, 290(3)",und,False,Marion,"Einzelbuchstabe, alphabetisch",5.-4.Jh.,Boden einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20290%283%29,CC-BY-4.0
+CSG-IGXV1-291-1,"IG XV 1, 291(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20291%281%29,CC-BY-4.0
+CSG-IGXV1-291-2,"IG XV 1, 291(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420-410,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20291%282%29,CC-BY-4.0
+CSG-IGXV1-291-3,"IG XV 1, 291(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20291%283%29,CC-BY-4.0
+CSG-IGXV1-291-4,"IG XV 1, 291(4)",und,False,Marion,"Einzelbuchstaben, syllabisch?",um 430-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20291%284%29,CC-BY-4.0
+CSG-IGXV1-291-5,"IG XV 1, 291(5)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20291%285%29,CC-BY-4.0
+CSG-IGXV1-292-1,"IG XV 1, 292(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20292%281%29,CC-BY-4.0
+CSG-IGXV1-292-2,"IG XV 1, 292(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20292%282%29,CC-BY-4.0
+CSG-IGXV1-292-3,"IG XV 1, 292(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20292%283%29,CC-BY-4.0
+CSG-IGXV1-293-1,"IG XV 1, 293(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20293%281%29,CC-BY-4.0
+CSG-IGXV1-294-1,"IG XV 1, 294(1)",grc,True,Marion,"Einzelbuchstaben, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20294%281%29,CC-BY-4.0
+CSG-IGXV1-294-2,"IG XV 1, 294(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20294%282%29,CC-BY-4.0
+CSG-IGXV1-295-1,"IG XV 1, 295(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20295%281%29,CC-BY-4.0
+CSG-IGXV1-296-1,"IG XV 1, 296(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20296%281%29,CC-BY-4.0
+CSG-IGXV1-296-2,"IG XV 1, 296(2)",und,False,Marion,"Besitzerinschrift, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20296%282%29,CC-BY-4.0
+CSG-IGXV1-297-1,"IG XV 1, 297(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20297%281%29,CC-BY-4.0
+CSG-IGXV1-297-2,"IG XV 1, 297(2)",und,False,Marion,"Einzelbuchstaben, alphabetisch und syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20297%282%29,CC-BY-4.0
+CSG-IGXV1-298-1,"IG XV 1, 298(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20298%281%29,CC-BY-4.0
+CSG-IGXV1-298-2,"IG XV 1, 298(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20298%282%29,CC-BY-4.0
+CSG-IGXV1-299-1,"IG XV 1, 299(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20299%281%29,CC-BY-4.0
+CSG-IGXV1-300-1,"IG XV 1, 300(1)",und,False,Marion,"Besitzerinschrift, syllabisch",um 460-440,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%281%29,CC-BY-4.0
+CSG-IGXV1-300-2,"IG XV 1, 300(2)",und,False,Marion,"Besitzerinschrift, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%282%29,CC-BY-4.0
+CSG-IGXV1-300-3,"IG XV 1, 300(3)",und,False,Marion,"Besitzerinschrift, syllabisch",um 400-380,Fuß einer Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%283%29,CC-BY-4.0
+CSG-IGXV1-300-4,"IG XV 1, 300(4)",und,False,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%284%29,CC-BY-4.0
+CSG-IGXV1-300-5,"IG XV 1, 300(5)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%285%29,CC-BY-4.0
+CSG-IGXV1-300-6,"IG XV 1, 300(6)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20300%286%29,CC-BY-4.0
+CSG-IGXV1-301-1,"IG XV 1, 301(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20301%281%29,CC-BY-4.0
+CSG-IGXV1-302-1,"IG XV 1, 302(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20302%281%29,CC-BY-4.0
+CSG-IGXV1-302-2,"IG XV 1, 302(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20302%282%29,CC-BY-4.0
+CSG-IGXV1-303-1,"IG XV 1, 303(1)",und,False,Marion,"Einzelbuchstaben und Besitzerinschrift, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20303%281%29,CC-BY-4.0
+CSG-IGXV1-303-2,"IG XV 1, 303(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20303%282%29,CC-BY-4.0
+CSG-IGXV1-304-1,"IG XV 1, 304(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20304%281%29,CC-BY-4.0
+CSG-IGXV1-304-2,"IG XV 1, 304(2)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20304%282%29,CC-BY-4.0
+CSG-IGXV1-305-1,"IG XV 1, 305(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20305%281%29,CC-BY-4.0
+CSG-IGXV1-306-1,"IG XV 1, 306(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20306%281%29,CC-BY-4.0
+CSG-IGXV1-307-1,"IG XV 1, 307(1)",und,False,Marion,"Einzelbuchstabe, alphabetisch oder syllabisch",um 500,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%281%29,CC-BY-4.0
+CSG-IGXV1-307-2,"IG XV 1, 307(2)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%282%29,CC-BY-4.0
+CSG-IGXV1-307-3,"IG XV 1, 307(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%283%29,CC-BY-4.0
+CSG-IGXV1-307-4,"IG XV 1, 307(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%284%29,CC-BY-4.0
+CSG-IGXV1-307-5,"IG XV 1, 307(5)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%285%29,CC-BY-4.0
+CSG-IGXV1-307-6,"IG XV 1, 307(6)",und,False,Marion,"Einzelbuchstabe, alphabetisch oder syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%286%29,CC-BY-4.0
+CSG-IGXV1-307-7,"IG XV 1, 307(7)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%287%29,CC-BY-4.0
+CSG-IGXV1-307-8,"IG XV 1, 307(8)",und,False,Marion,"Besitzerinschrift, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%288%29,CC-BY-4.0
+CSG-IGXV1-307-9,"IG XV 1, 307(9)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%289%29,CC-BY-4.0
+CSG-IGXV1-307-10,"IG XV 1, 307(10)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2810%29,CC-BY-4.0
+CSG-IGXV1-307-11,"IG XV 1, 307(11)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325-310,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2811%29,CC-BY-4.0
+CSG-IGXV1-307-12,"IG XV 1, 307(12)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2812%29,CC-BY-4.0
+CSG-IGXV1-307-13,"IG XV 1, 307(13)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2813%29,CC-BY-4.0
+CSG-IGXV1-307-14,"IG XV 1, 307(14)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2814%29,CC-BY-4.0
+CSG-IGXV1-307-15,"IG XV 1, 307(15)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2815%29,CC-BY-4.0
+CSG-IGXV1-307-16,"IG XV 1, 307(16)",und,False,Marion,"Einzelbuchstaben und Besitzerinschrift, syllabisch und alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2816%29,CC-BY-4.0
+CSG-IGXV1-307-17,"IG XV 1, 307(17)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2817%29,CC-BY-4.0
+CSG-IGXV1-307-18,"IG XV 1, 307(18)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2818%29,CC-BY-4.0
+CSG-IGXV1-307-19,"IG XV 1, 307(19)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2819%29,CC-BY-4.0
+CSG-IGXV1-307-20,"IG XV 1, 307(20)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2820%29,CC-BY-4.0
+CSG-IGXV1-307-21,"IG XV 1, 307(21)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2821%29,CC-BY-4.0
+CSG-IGXV1-307-22,"IG XV 1, 307(22)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2822%29,CC-BY-4.0
+CSG-IGXV1-307-23,"IG XV 1, 307(23)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20307%2823%29,CC-BY-4.0
+CSG-IGXV1-308-1,"IG XV 1, 308(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20308%281%29,CC-BY-4.0
+CSG-IGXV1-308-2,"IG XV 1, 308(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20308%282%29,CC-BY-4.0
+CSG-IGXV1-309-1,"IG XV 1, 309(1)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20309%281%29,CC-BY-4.0
+CSG-IGXV1-309-2,"IG XV 1, 309(2)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20309%282%29,CC-BY-4.0
+CSG-IGXV1-310-1,"IG XV 1, 310(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-390,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20310%281%29,CC-BY-4.0
+CSG-IGXV1-311-1,"IG XV 1, 311(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20311%281%29,CC-BY-4.0
+CSG-IGXV1-311-2,"IG XV 1, 311(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20311%282%29,CC-BY-4.0
+CSG-IGXV1-312-1,"IG XV 1, 312(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 500-480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20312%281%29,CC-BY-4.0
+CSG-IGXV1-312-2,"IG XV 1, 312(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 475-450,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20312%282%29,CC-BY-4.0
+CSG-IGXV1-312-3,"IG XV 1, 312(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 460,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20312%283%29,CC-BY-4.0
+CSG-IGXV1-313-1,"IG XV 1, 313(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20313%281%29,CC-BY-4.0
+CSG-IGXV1-313-2,"IG XV 1, 313(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20313%282%29,CC-BY-4.0
+CSG-IGXV1-314-1,"IG XV 1, 314(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20314%281%29,CC-BY-4.0
+CSG-IGXV1-314-2,"IG XV 1, 314(2)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20314%282%29,CC-BY-4.0
+CSG-IGXV1-314-3,"IG XV 1, 314(3)",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20314%283%29,CC-BY-4.0
+CSG-IGXV1-315-1,"IG XV 1, 315(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%281%29,CC-BY-4.0
+CSG-IGXV1-315-2,"IG XV 1, 315(2)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%282%29,CC-BY-4.0
+CSG-IGXV1-315-3,"IG XV 1, 315(3)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%283%29,CC-BY-4.0
+CSG-IGXV1-315-4,"IG XV 1, 315(4)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%284%29,CC-BY-4.0
+CSG-IGXV1-315-5,"IG XV 1, 315(5)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%285%29,CC-BY-4.0
+CSG-IGXV1-315-6,"IG XV 1, 315(6)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%286%29,CC-BY-4.0
+CSG-IGXV1-315-7,"IG XV 1, 315(7)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%287%29,CC-BY-4.0
+CSG-IGXV1-315-8,"IG XV 1, 315(8)",und,False,Marion,"Einzelbuchstaben oder Zahlzeichen, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20315%288%29,CC-BY-4.0
+CSG-IGXV1-316-1,"IG XV 1, 316(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 500-480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%281%29,CC-BY-4.0
+CSG-IGXV1-316-2,"IG XV 1, 316(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%282%29,CC-BY-4.0
+CSG-IGXV1-316-3,"IG XV 1, 316(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%283%29,CC-BY-4.0
+CSG-IGXV1-316-4,"IG XV 1, 316(4)",und,False,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%284%29,CC-BY-4.0
+CSG-IGXV1-316-5,"IG XV 1, 316(5)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%285%29,CC-BY-4.0
+CSG-IGXV1-316-6,"IG XV 1, 316(6)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20316%286%29,CC-BY-4.0
+CSG-IGXV1-317-1,"IG XV 1, 317(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20317%281%29,CC-BY-4.0
+CSG-IGXV1-318-1,"IG XV 1, 318(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20318%281%29,CC-BY-4.0
+CSG-IGXV1-319-1,"IG XV 1, 319(1)",und,False,Marion,"Einzelbuchstabe, syllabisch?",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20319%281%29,CC-BY-4.0
+CSG-IGXV1-320-1,"IG XV 1, 320(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20320%281%29,CC-BY-4.0
+CSG-IGXV1-321-1,"IG XV 1, 321(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20321%281%29,CC-BY-4.0
+CSG-IGXV1-321-2,"IG XV 1, 321(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20321%282%29,CC-BY-4.0
+CSG-IGXV1-322-1,"IG XV 1, 322(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20322%281%29,CC-BY-4.0
+CSG-IGXV1-323-1,"IG XV 1, 323(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20323%281%29,CC-BY-4.0
+CSG-IGXV1-324-1,"IG XV 1, 324(1)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20324%281%29,CC-BY-4.0
+CSG-IGXV1-325-1,"IG XV 1, 325(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20325%281%29,CC-BY-4.0
+CSG-IGXV1-325-2,"IG XV 1, 325(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20325%282%29,CC-BY-4.0
+CSG-IGXV1-325-3,"IG XV 1, 325(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20325%283%29,CC-BY-4.0
+CSG-IGXV1-326-1,"IG XV 1, 326(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20326%281%29,CC-BY-4.0
+CSG-IGXV1-327-1,"IG XV 1, 327(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20327%281%29,CC-BY-4.0
+CSG-IGXV1-328-1,"IG XV 1, 328(1)",und,False,Marion,"Einzelbuchstaben, syllabisch?",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20328%281%29,CC-BY-4.0
+CSG-IGXV1-329-1,"IG XV 1, 329(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20329%281%29,CC-BY-4.0
+CSG-IGXV1-330-1,"IG XV 1, 330(1)",grc,True,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20330%281%29,CC-BY-4.0
+CSG-IGXV1-331-1,"IG XV 1, 331(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-380,Vasenfuß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20331%281%29,CC-BY-4.0
+CSG-IGXV1-332,"IG XV 1, 332",und,False,Marion,"Einzelbuchstaben, syllabisch",um 480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20332,CC-BY-4.0
+CSG-IGXV1-333,"IG XV 1, 333",und,False,Marion,"Besitzerinschrift, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20333,CC-BY-4.0
+CSG-IGXV1-334,"IG XV 1, 334",und,False,Marion,"Besitzerinschrift, syllabisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20334,CC-BY-4.0
+CSG-IGXV1-335,"IG XV 1, 335",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20335,CC-BY-4.0
+CSG-IGXV1-336,"IG XV 1, 336",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20336,CC-BY-4.0
+CSG-IGXV1-337,"IG XV 1, 337",grc,True,Marion,"Einzelbuchstaben, syllabisch",um 410,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20337,CC-BY-4.0
+CSG-IGXV1-338,"IG XV 1, 338",und,False,Marion,"Einzelbuchstaben und Besitzerinschrift, syllabisch und alphabetisch",um 400-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20338,CC-BY-4.0
+CSG-IGXV1-339,"IG XV 1, 339",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20339,CC-BY-4.0
+CSG-IGXV1-340,"IG XV 1, 340",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20340,CC-BY-4.0
+CSG-IGXV1-341,"IG XV 1, 341",und,False,Marion,"Einzelbuchstabe, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20341,CC-BY-4.0
+CSG-IGXV1-342,"IG XV 1, 342",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20342,CC-BY-4.0
+CSG-IGXV1-343,"IG XV 1, 343",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20343,CC-BY-4.0
+CSG-IGXV1-344,"IG XV 1, 344",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20344,CC-BY-4.0
+CSG-IGXV1-345,"IG XV 1, 345",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20345,CC-BY-4.0
+CSG-IGXV1-346,"IG XV 1, 346",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20346,CC-BY-4.0
+CSG-IGXV1-347,"IG XV 1, 347",und,False,Marion,"Einzelbuchstaben, syllabisch",um 325-310,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20347,CC-BY-4.0
+CSG-IGXV1-348,"IG XV 1, 348",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20348,CC-BY-4.0
+CSG-IGXV1-349,"IG XV 1, 349",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20349,CC-BY-4.0
+CSG-IGXV1-350,"IG XV 1, 350",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20350,CC-BY-4.0
+CSG-IGXV1-351,"IG XV 1, 351",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20351,CC-BY-4.0
+CSG-IGXV1-352,"IG XV 1, 352",grc,True,Marion,"Besitzerinschrift, syllabisch",6.-4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20352,CC-BY-4.0
+CSG-IGXV1-353,"IG XV 1, 353",und,False,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Napf (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20353,CC-BY-4.0
+CSG-IGXV1-354-1,"IG XV 1, 354(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 470-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20354%281%29,CC-BY-4.0
+CSG-IGXV1-354-2,"IG XV 1, 354(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 470-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20354%282%29,CC-BY-4.0
+CSG-IGXV1-354-3,"IG XV 1, 354(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400,Skyphos (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20354%283%29,CC-BY-4.0
+CSG-IGXV1-355,"IG XV 1, 355",grc,True,Marion,"Besitzerinschrift, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20355,CC-BY-4.0
+CSG-IGXV1-356,"IG XV 1, 356",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20356,CC-BY-4.0
+CSG-IGXV1-357,"IG XV 1, 357",grc,True,Marion,"Besitzerinschrift, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20357,CC-BY-4.0
+CSG-IGXV1-358-1,"IG XV 1, 358(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20358%281%29,CC-BY-4.0
+CSG-IGXV1-358-2,"IG XV 1, 358(2)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20358%282%29,CC-BY-4.0
+CSG-IGXV1-358-3,"IG XV 1, 358(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20358%283%29,CC-BY-4.0
+CSG-IGXV1-359-1,"IG XV 1, 359(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20359%281%29,CC-BY-4.0
+CSG-IGXV1-360-1,"IG XV 1, 360(1)",und,False,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20360%281%29,CC-BY-4.0
+CSG-IGXV1-360-2,"IG XV 1, 360(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20360%282%29,CC-BY-4.0
+CSG-IGXV1-360-3,"IG XV 1, 360(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20360%283%29,CC-BY-4.0
+CSG-IGXV1-360-4,"IG XV 1, 360(4)",und,False,Marion,"Besitzerinschrift, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20360%284%29,CC-BY-4.0
+CSG-IGXV1-361-1,"IG XV 1, 361(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20361%281%29,CC-BY-4.0
+CSG-IGXV1-361-2,"IG XV 1, 361(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20361%282%29,CC-BY-4.0
+CSG-IGXV1-361-3,"IG XV 1, 361(3)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20361%283%29,CC-BY-4.0
+CSG-IGXV1-361-4,"IG XV 1, 361(4)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Deckel (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20361%284%29,CC-BY-4.0
+CSG-IGXV1-361-5,"IG XV 1, 361(5)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20361%285%29,CC-BY-4.0
+CSG-IGXV1-362-1,"IG XV 1, 362(1)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",um 425-400,Salzschale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%281%29,CC-BY-4.0
+CSG-IGXV1-362-2,"IG XV 1, 362(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%282%29,CC-BY-4.0
+CSG-IGXV1-362-3,"IG XV 1, 362(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%283%29,CC-BY-4.0
+CSG-IGXV1-362-4,"IG XV 1, 362(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%284%29,CC-BY-4.0
+CSG-IGXV1-362-5,"IG XV 1, 362(5)",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",5.-4.Jh.,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%285%29,CC-BY-4.0
+CSG-IGXV1-362-6,"IG XV 1, 362(6)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%286%29,CC-BY-4.0
+CSG-IGXV1-362-7,"IG XV 1, 362(7)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%287%29,CC-BY-4.0
+CSG-IGXV1-362-8,"IG XV 1, 362(8)",und,False,Marion,"Einzelbuchstaben, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%288%29,CC-BY-4.0
+CSG-IGXV1-362-9,"IG XV 1, 362(9)",und,False,Marion,"Einzelbuchstabe und Zahlzeichen, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%289%29,CC-BY-4.0
+CSG-IGXV1-362-10,"IG XV 1, 362(10)",und,False,Marion,"Einzelbuchstabe und Zahlzeichen, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%2810%29,CC-BY-4.0
+CSG-IGXV1-362-11,"IG XV 1, 362(11)",und,False,Marion,"Einzelbuchstabe und Zahlzeichen, alphabetisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%2811%29,CC-BY-4.0
+CSG-IGXV1-362-12,"IG XV 1, 362(12)",und,False,Marion,"Zahlzeichen, alphabetisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20362%2812%29,CC-BY-4.0
+CSG-IGXV1-363-1,"IG XV 1, 363(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20363%281%29,CC-BY-4.0
+CSG-IGXV1-364-1,"IG XV 1, 364(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 425-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20364%281%29,CC-BY-4.0
+CSG-IGXV1-364-2,"IG XV 1, 364(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20364%282%29,CC-BY-4.0
+CSG-IGXV1-365-1,"IG XV 1, 365(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-425,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20365%281%29,CC-BY-4.0
+CSG-IGXV1-365-2,"IG XV 1, 365(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-375,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20365%282%29,CC-BY-4.0
+CSG-IGXV1-365-3,"IG XV 1, 365(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20365%283%29,CC-BY-4.0
+CSG-IGXV1-366-1,"IG XV 1, 366(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20366%281%29,CC-BY-4.0
+CSG-IGXV1-366-2,"IG XV 1, 366(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20366%282%29,CC-BY-4.0
+CSG-IGXV1-367-1,"IG XV 1, 367(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20367%281%29,CC-BY-4.0
+CSG-IGXV1-368-1,"IG XV 1, 368(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20368%281%29,CC-BY-4.0
+CSG-IGXV1-369-1,"IG XV 1, 369(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 500-475,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20369%281%29,CC-BY-4.0
+CSG-IGXV1-370-1,"IG XV 1, 370(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 475-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20370%281%29,CC-BY-4.0
+CSG-IGXV1-371-1,"IG XV 1, 371(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 450-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20371%281%29,CC-BY-4.0
+CSG-IGXV1-371-2,"IG XV 1, 371(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 450-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20371%282%29,CC-BY-4.0
+CSG-IGXV1-371-3,"IG XV 1, 371(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-380,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20371%283%29,CC-BY-4.0
+CSG-IGXV1-372-1,"IG XV 1, 372(1)",und,False,Marion,"Besitzerinschrift, syllabisch",um 400-375,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20372%281%29,CC-BY-4.0
+CSG-IGXV1-372-2,"IG XV 1, 372(2)",und,False,Marion,"Besitzerinschrift, syllabisch",um 400-375,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20372%282%29,CC-BY-4.0
+CSG-IGXV1-373-1,"IG XV 1, 373(1)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-375,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20373%281%29,CC-BY-4.0
+CSG-IGXV1-373-2,"IG XV 1, 373(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 400-375,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20373%282%29,CC-BY-4.0
+CSG-IGXV1-373-3,"IG XV 1, 373(3)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20373%283%29,CC-BY-4.0
+CSG-IGXV1-373-4,"IG XV 1, 373(4)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20373%284%29,CC-BY-4.0
+CSG-IGXV1-373-5,"IG XV 1, 373(5)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20373%285%29,CC-BY-4.0
+CSG-IGXV1-374-1,"IG XV 1, 374(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20374%281%29,CC-BY-4.0
+CSG-IGXV1-375,"IG XV 1, 375",grc,True,Marion,"Besitzerinschrift, syllabisch",um 475-400,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20375,CC-BY-4.0
+CSG-IGXV1-376,"IG XV 1, 376",und,False,Marion,"Einzelbuchstabe, syllabisch",7.Jh.,Eimer (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20376,CC-BY-4.0
+CSG-IGXV1-377,"IG XV 1, 377",und,False,Marion,"Einzelbuchstabe, syllabisch",um 600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20377,CC-BY-4.0
+CSG-IGXV1-378-1,"IG XV 1, 378(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20378%281%29,CC-BY-4.0
+CSG-IGXV1-378-2,"IG XV 1, 378(2)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20378%282%29,CC-BY-4.0
+CSG-IGXV1-379,"IG XV 1, 379",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20379,CC-BY-4.0
+CSG-IGXV1-380,"IG XV 1, 380",und,False,Marion,"Einzelbuchstabe, syllabisch",5.-4.Jh.,Gefäß (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20380,CC-BY-4.0
+CSG-IGXV1-381,"IG XV 1, 381",und,False,Marion,"Einzelbuchstabe, syllabisch",um 325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20381,CC-BY-4.0
+CSG-IGXV1-382,"IG XV 1, 382",und,False,Marion,"Einzelbuchstabe, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20382,CC-BY-4.0
+CSG-IGXV1-383,"IG XV 1, 383",und,False,Marion,"Besitzerinschrift, syllabisch",um 370-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20383,CC-BY-4.0
+CSG-IGXV1-384-1,"IG XV 1, 384(1)",und,False,Marion,"Einzelbuchstaben, syllabisch",um 480,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20384%281%29,CC-BY-4.0
+CSG-IGXV1-384-2,"IG XV 1, 384(2)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20384%282%29,CC-BY-4.0
+CSG-IGXV1-384-3,"IG XV 1, 384(3)",und,False,Marion,"Einzelbuchstabe, syllabisch",um 450-420,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20384%283%29,CC-BY-4.0
+CSG-IGXV1-384-4,"IG XV 1, 384(4)",und,False,Marion,"Einzelbuchstaben, alphabetisch",um 430,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20384%284%29,CC-BY-4.0
+CSG-IGXV1-385-1,"IG XV 1, 385(1)",grc,True,Marion,"Besitzerinschrift, syllabisch",um 375-350,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20385%281%29,CC-BY-4.0
+CSG-IGXV1-385-2,"IG XV 1, 385(2)",und,False,Marion,"Besitzerinschrift und Zahlzeichen, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20385%282%29,CC-BY-4.0
+CSG-IGXV1-386,"IG XV 1, 386",und,False,Marion,"Besitzerinschrift, syllabisch",um 400-390,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20386,CC-BY-4.0
+CSG-IGXV1-387,"IG XV 1, 387",grc,True,Marion,"Besitzerinschrift, syllabisch",um 420-400,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20387,CC-BY-4.0
+CSG-IGXV1-388,"IG XV 1, 388",und,False,Marion,"Einzelbuchstaben, syllabisch und alphabetisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20388,CC-BY-4.0
+CSG-IGXV1-389,"IG XV 1, 389",und,False,Marion,"Einzelbuchstaben, syllabisch",um 430-400,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20389,CC-BY-4.0
+CSG-IGXV1-390,"IG XV 1, 390",und,False,Marion,"Einzelbuchstaben, syllabisch",um 400-375,Krug (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20390,CC-BY-4.0
+CSG-IGXV1-391,"IG XV 1, 391",und,False,Marion,"Besitzerinschrift, syllabisch",um 400-375,Kantharos (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20391,CC-BY-4.0
+CSG-IGXV1-392,"IG XV 1, 392",grc,True,Marion,"Besitzerinschrift, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20392,CC-BY-4.0
+CSG-IGXV1-393,"IG XV 1, 393",und,False,Marion,"Einzelbuchstaben, syllabisch",um 350-325,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20393,CC-BY-4.0
+CSG-IGXV1-394,"IG XV 1, 394",grc,True,Marion,"Besitzerinschrift, syllabisch",7.Jh.,Oiochoë (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20394,CC-BY-4.0
+CSG-IGXV1-395,"IG XV 1, 395",grc,True,Marion,"Besitzerinschrift, syllabisch",um 240-220,Hydria (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20395,CC-BY-4.0
+CSG-IGXV1-396,"IG XV 1, 396",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20396,CC-BY-4.0
+CSG-IGXV1-397,"IG XV 1, 397",grc,True,Marion,"Besitzerinschrift, syllabisch",5.-4.Jh.,Schale (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20397,CC-BY-4.0
+CSG-IGXV1-398,"IG XV 1, 398",grc,True,Marion,"Besitzerinschrift, syllabisch",7.-5.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20398,CC-BY-4.0
+CSG-IGXV1-399,"IG XV 1, 399",grc,True,Marion,"Besitzerinschrift, syllabisch",7.-4.Jh.,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20399,CC-BY-4.0
+CSG-IGXV1-400,"IG XV 1, 400",grc,True,Marion,"Besitzerinschrift, syllabisch",um 750-600,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20400,CC-BY-4.0
+CSG-IGXV1-401,"IG XV 1, 401",grc,True,Marion,"Besitzerinschrift, syllabisch",um 600-500,Amphore? (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20401,CC-BY-4.0
+CSG-IGXV1-402,"IG XV 1, 402",grc,True,Marion,"Besitzerinschrift, syllabisch",um 600-475,Amphore (Ton),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20402,CC-BY-4.0
+CSG-IGXV1-403,"IG XV 1, 403",und,False,Marion,"Besitzerinschrift?, syllabisch",um 800-650,Schulterblatt (vom Rind),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20403,CC-BY-4.0
+CSG-IGXV1-404,"IG XV 1, 404",grc,True,Marion,"Besitzerinschrift, syllabisch",6.Jh.,Siegel in Form eines Skarabäus (Onyx),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20404,CC-BY-4.0
+CSG-IGXV1-405,"IG XV 1, 405",grc,True,Marion,"Besitzerinschrift, syllabisch",6.Jh.,Siegel in Form eines Skarabäus (Sardonyx),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20405,CC-BY-4.0
+CSG-IGXV1-406,"IG XV 1, 406",grc,True,Marion,Münzlegende des Königs Sasmas,470-450,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20406,CC-BY-4.0
+CSG-IGXV1-407,"IG XV 1, 407",grc,True,Marion,Münzlegende des Königs Stasioikos I.,450-420,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20407,CC-BY-4.0
+CSG-IGXV1-408,"IG XV 1, 408",grc,True,Marion,Münzlegende des Königs Timocharis,420-380,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20408,CC-BY-4.0
+CSG-IGXV1-409,"IG XV 1, 409",grc,True,Marion,Münzlegende des Königs Ti(mocharis) II.,um 350,Münzen (Bronze),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20409,CC-BY-4.0
+CSG-IGXV1-410,"IG XV 1, 410",grc,True,Marion,Münzlegende des Königs Stasioikos II.,330-312,Münzen (Silber),https://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XV%201%2C%20410,CC-BY-4.0

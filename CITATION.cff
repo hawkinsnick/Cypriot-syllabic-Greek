@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this software snapshot and the underlying BBAW edition; see NOTICE and each record's source URL."
+title: "Cypriot syllabic Greek: source snapshot and research toolkit"
+type: software
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - name: "Cypriot syllabic Greek corpus contributors"
+repository-code: "https://github.com/hawkinsnick/Cypriot-syllabic-Greek"
+license: MIT
+abstract: "Reproducible processing of an attributed BBAW / TELOTA IG XV 1 digital edition snapshot. Data retain CC BY 4.0; no exhaustive or independently reviewed critical edition is claimed."
