@@ -1,0 +1,55 @@
+{
+  "status": "repository_identity_snapshot_only",
+  "checked_at": "2026-10-01",
+  "warning": "These are exact branch snapshots. Matching metadata conventions does not establish schema conformance, independent witnesses, scientific readiness, or linguistic equivalence.",
+  "repositories": [
+    {
+      "repository": "Linear-A",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Linear-A.git",
+      "commit": "f28dc77c54542ba2625c9148d38820417419a4a3",
+      "version": "3.0.15",
+      "version_status": "retrieved"
+    },
+    {
+      "repository": "Linear-B",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Linear-B.git",
+      "commit": "9ece7685822732611a466367d1c815357f18d3ef",
+      "version": "4.9.24",
+      "version_status": "retrieved"
+    },
+    {
+      "repository": "Cypro-Minoan",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Cypro-Minoan.git",
+      "commit": "9195c4a9bf00db01a07ed322fe23447cde8e2164",
+      "version": "5.2.8",
+      "version_status": "retrieved"
+    },
+    {
+      "repository": "Cretan-hieroglpyhs",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Cretan-hieroglpyhs.git",
+      "commit": "9a2d1e5b94483b94ce9fee95ab38436d7e61204d",
+      "version": "5.2.6",
+      "version_status": "retrieved"
+    },
+    {
+      "repository": "Phaistos-Disc",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Phaistos-Disc.git",
+      "commit": "e5ac801222519959f0b34b2e5883fcf85b2258a1",
+      "version": "2.0.0-rc.3",
+      "version_status": "retrieved"
+    },
+    {
+      "repository": "Byblos-syllabary",
+      "default_branch": "main",
+      "url": "https://github.com/hawkinsnick/Byblos-syllabary.git",
+      "commit": "4428c59c73534b40876dba5840cb0ad9d726e4f4",
+      "version": "1.3.0 — stable software workflow; provisional research catalogue.",
+      "version_status": "README_statement"
+    }
+  ]
+}
