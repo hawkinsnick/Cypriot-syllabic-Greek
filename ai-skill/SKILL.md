@@ -1,7 +1,7 @@
 ---
 name: cypriot-syllabic-greek-research
 description: Evidence-first AI research skill for the Cypriot syllabic Greek corpus.
-version: 0.1.0
+version: 0.3.1
 ---
 
 # Cypriot syllabic Greek Research Skill
@@ -26,3 +26,10 @@ Give the direct answer, followed as relevant by Evidence; Evidentiary status; Un
 
 ## Synchronization
 Read `ai-skill/generated/source-state.json` before substantive work. It records the corpus commit from which the AI-facing package was synchronized. Generated files are rebuildable views; canonical corpus files govern if a discrepancy is found.
+
+## Academic-scrutiny gates
+- Digital edition entries are not automatically distinct objects or independent witnesses
+- The Greek subset is source-interpreted, not independent linguistic gold
+- Whole-corpus frequency and cross-script phonetic inference remain blocked
+- IG XV 1, 150 remains quarantined and excluded from parsed statistics
+- Greek interpretation, syllabic transliteration and modern translation remain distinct
