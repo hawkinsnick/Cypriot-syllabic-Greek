@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-02",
+  "established": [
+    {
+      "gate": "frozen_IG_XV_1_source_index",
+      "status": "PASS"
+    },
+    {
+      "gate": "licensed_source_replay",
+      "status": "PASS",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "gate": "source_defect_quarantine",
+      "status": "PASS"
+    },
+    {
+      "gate": "deterministic_exports_and_validation",
+      "status": "PASS"
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "CSG-PRE-001",
+      "scope": "coverage beyond current IG XV 1 fascicle",
+      "action": "Register and acquire additional authoritative Cypriot syllabic Greek sources where lawful.",
+      "blocked_by": "source_discovery_and_access"
+    },
+    {
+      "id": "CSG-PRE-002",
+      "scope": "ICS/museum concordances",
+      "action": "Add source-attributed identifier/object concordances without treating aliases as independent witnesses.",
+      "blocked_by": "catalogue_access"
+    },
+    {
+      "id": "CSG-PRE-003",
+      "scope": "edition comparison",
+      "action": "Encode independently sourced edition differences with exact locators and uncertainty.",
+      "blocked_by": "edition_access"
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "CSG-HUM-001",
+      "decision": "adjudicate ambiguous/damaged syllabic readings"
+    },
+    {
+      "id": "CSG-HUM-002",
+      "decision": "adjudicate object identity where catalogue evidence conflicts"
+    },
+    {
+      "id": "CSG-HUM-003",
+      "decision": "independently review selected readings and editorial restorations"
+    }
+  ],
+  "completion_rule": "Current frozen source snapshot is machine/source complete for its declared fascicle; project-wide Pre-Expert Maximum additionally requires all discoverable expansion sources to receive an acquired, rights-blocked, access-blocked, or human-only disposition."
+}
