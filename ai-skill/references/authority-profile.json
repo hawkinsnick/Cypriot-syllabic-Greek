@@ -21,6 +21,11 @@
       "role": "method",
       "path": "docs/METHOD.md",
       "required": true
+    },
+    {
+      "role": "ig_xv1_authority",
+      "path": "research/ig-xv1-authority.json",
+      "required": true
     }
   ],
   "behavioral_gates": [
@@ -28,6 +33,7 @@
     "The Greek subset is source-interpreted, not independent linguistic gold",
     "Whole-corpus frequency and cross-script phonetic inference remain blocked",
     "IG XV 1, 150 remains quarantined and excluded from parsed statistics",
-    "Greek interpretation, syllabic transliteration and modern translation remain distinct"
+    "Greek interpretation, syllabic transliteration and modern translation remain distinct",
+    "Shared IG XV 1 records across the Cypriot Greek and Eteocypriot repositories are the same source evidence, not independent replication."
   ]
 }
