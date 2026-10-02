@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot-syllabic-Greek",
+  "required_authorities": [
+    {
+      "role": "audit",
+      "path": "exports/audit.json",
+      "required": true
+    },
+    {
+      "role": "greek_subset",
+      "path": "exports/greek-subset.json",
+      "required": true
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "required": true
+    },
+    {
+      "role": "method",
+      "path": "docs/METHOD.md",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "Digital edition entries are not automatically distinct objects or independent witnesses",
+    "The Greek subset is source-interpreted, not independent linguistic gold",
+    "Whole-corpus frequency and cross-script phonetic inference remain blocked",
+    "IG XV 1, 150 remains quarantined and excluded from parsed statistics",
+    "Greek interpretation, syllabic transliteration and modern translation remain distinct"
+  ]
+}
