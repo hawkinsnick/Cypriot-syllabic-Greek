@@ -103,3 +103,8 @@ corpus projects. This release follows their general separation of provenance,
 rights, uncertainty, native sampling units and research gates. No cross-project
 schema conformance or linguistic equivalence is claimed yet. See the
 [roadmap](docs/ROADMAP.md) and [data model](docs/DATA_MODEL.md).
+
+
+## Fleet admission
+
+This corpus participates in the Combined Corpus Research AI fleet. Fleet admission requires the repository's component-specific licensing architecture, its individual `ai-skill` research contract and generated bundle, explicit master-registry membership, and passing member/master validation. Third-party material retains its upstream rights.
