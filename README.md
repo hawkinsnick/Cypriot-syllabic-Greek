@@ -93,9 +93,7 @@ and Humanities (BBAW), TELOTA digital edition**. Scholarly editors: **Artemis
 Karnava and Massimo Perna, with Markus Egetmeyer (2020)**. Individual digital
 translation responsibility is retained, including **Klaus Hallof** where supplied.
 
-Raw XML and adapted edition content retain **CC BY 4.0**, with links back to
-every original page. Original project code and documentation are **MIT**.
-Unicode data have their own licence. See [NOTICE](NOTICE) and [LICENSE](LICENSE).
+Raw XML and adapted IG edition content retain upstream **CC BY 4.0**, with links back to every original page. Current project-original software is **PolyForm Noncommercial 1.0.0** and project-owned documentation/annotations are **CC BY-NC 4.0**. Unicode data retain their own licence. See [NOTICE](NOTICE) and [LICENSE](LICENSE).
 No museum images, plate drawings or printed-volume scans are bundled.
 
 ## Next milestones
