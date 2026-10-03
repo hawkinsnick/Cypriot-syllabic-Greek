@@ -1,0 +1,59 @@
+{
+  "schema_version": "0.3.1",
+  "skill_version": "0.3.1",
+  "source_commit": "fb687d6bd594155e7b5e7a68a1ed30d3e0e09cea",
+  "canonical_repository": true,
+  "generated_at_utc": "2026-10-03T17:39:47+00:00",
+  "contract": {
+    "corpus_is_authoritative": true,
+    "missing_means_unknown": true,
+    "cross_corpus_equivalence_requires_explicit_evidence": true,
+    "preserve_uncertainty": true,
+    "preserve_source_independence": true,
+    "preserve_rights": true
+  },
+  "artifacts": [
+    {
+      "role": "audit",
+      "path": "exports/audit.json",
+      "sha256": "9b3152aa0c75af858db2a5a5e731cf874bb634dd0aa46ad72f09ef1432f5bc7a",
+      "bytes": 888
+    },
+    {
+      "role": "corpus_json",
+      "path": "exports/corpus.json",
+      "sha256": "c58a94189ef0f6ec588f1506d6b63d9bf984fc4a24078612e207d8431b3b13dd",
+      "bytes": 2142966
+    },
+    {
+      "role": "greek_subset",
+      "path": "exports/greek-subset.json",
+      "sha256": "4da61071a22c002190eb5d3de31432e288a1647b96a3cf0cfa0d1c54ba2bf7e9",
+      "bytes": 791494
+    },
+    {
+      "role": "notice",
+      "path": "NOTICE",
+      "sha256": "bb405a27ffb974a3105578f8419100b397c2f178b0b5babd3318ea19c7ee6744",
+      "bytes": 2103
+    },
+    {
+      "role": "method",
+      "path": "docs/METHOD.md",
+      "sha256": "79318e55ff45564a866cfeeba92b5b0730d0b6f66a0facb6d338a21bcef71951",
+      "bytes": 4495
+    },
+    {
+      "role": "ig_xv1_authority",
+      "path": "research/ig-xv1-authority.json",
+      "sha256": "66cddeaca3d9fe832ba97bfe51b52526432b486fd914820b9a4b5fdcb5e5a1d0",
+      "bytes": 1187
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "sha256": "0168454059eeb82be8e3dbd4552af33f5f7d50773926a35311aa4810a6ddeb27",
+      "bytes": 1932
+    }
+  ]
+}
