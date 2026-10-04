@@ -1,0 +1,37 @@
+{
+  "automatic_admission": false,
+  "decisions": {
+    "language_or_script_classification": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "object_identity": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reading_and_layout": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "reuse_rights": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "source_independence": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    },
+    "uncertainty": {
+      "rationale": null,
+      "status": "UNREVIEWED"
+    }
+  },
+  "evidence_fingerprint": "aebf4ec99b6f7d2cc95be2fceeb03a58affcb844dbda1f679d5ab999a891cc43",
+  "inspected_evidence": [],
+  "record_key": null,
+  "repository": "hawkinsnick/Cypriot-syllabic-Greek",
+  "reviewed_on": null,
+  "reviewer": null,
+  "schema_version": "1.0",
+  "source_record_sha256": null
+}
