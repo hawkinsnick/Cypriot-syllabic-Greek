@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "authoritative_scope": {
+    "current": "IG XV 1,1: Amathus, Kourion, Marion",
+    "published_range": "IG XV 1, 1-410",
+    "planned_program": {
+      "reported_total_inscriptions": 1397,
+      "fascicle_1_reported": 386,
+      "fascicle_2_paphos_reported": 464,
+      "fascicle_3_other_sites_reported": 547
+    },
+    "boundary": "Historical project denominators describe planned inscription coverage and are not interchangeable with the repository's 593 digital responses / 592 parsed edition entries."
+  },
+  "open_object_concordance_seeds": [
+    {
+      "authority": "Louvre Collections",
+      "object": "AM 1859",
+      "historical_id": "ICS 17",
+      "place": "Paphos",
+      "object_type": "fragmentary limestone stele",
+      "script": "Cypro-syllabic",
+      "date": "400-325 BCE",
+      "role": "rights-compatible public object identity/provenance seed; image rights separate"
+    },
+    {
+      "authority": "Louvre Collections",
+      "object": "AM 1858",
+      "place": "Paphos",
+      "object_type": "fragmentary limestone stele",
+      "script": "Cypro-syllabic",
+      "date": "400-325 BCE",
+      "role": "paired Paphos object identity seed"
+    },
+    {
+      "authority": "The Metropolitan Museum of Art",
+      "object": "74.51.2343",
+      "place_scope": "Cypriot/Paphian dedication context",
+      "object_type": "limestone inscribed box fragment",
+      "script": "Cypro-syllabic",
+      "rights": "Met Open Access data; image marked Public Domain",
+      "role": "open object/collection concordance seed"
+    }
+  ],
+  "discovery_frontier": {
+    "ig_public_squeeze_page": "BBAW IG XV Cyprus lists Paphos and vicinity syllabic squeezes, including ICS and Meister/Rantidi identifiers.",
+    "rule": "Squeeze-list identifiers are discovery/concordance evidence, not transcriptions or certified object totals."
+  },
+  "next_actions": [
+    "Crosswalk public Paphos museum/catalogue identities to ICS/IG identifiers.",
+    "Build Paphos expansion ledger without importing unpublished/in-preparation IG readings.",
+    "Use public-domain/open museum metadata to improve object identity while keeping image/component rights explicit."
+  ]
+}
