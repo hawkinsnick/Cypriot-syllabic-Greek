@@ -52,5 +52,14 @@
     "Crosswalk public Paphos museum/catalogue identities to ICS/IG identifiers.",
     "Build Paphos expansion ledger without importing unpublished/in-preparation IG readings.",
     "Use public-domain/open museum metadata to improve object identity while keeping image/component rights explicit."
-  ]
+  ],
+  "progress": {
+    "paphos_object_concordance": "research/paphos-object-concordance.json",
+    "public_ids_reconciled": [
+      "ICS 16 -> Louvre AM 1860",
+      "ICS 17 -> Louvre AM 1858 + AM 1859"
+    ],
+    "ig_fascicle_2_status": "IN_PROGRESS_AT_BBAW_NOT_PUBLISHED_AS_CURRENT_IG_XV_1_1_DIGITAL_CORPUS",
+    "next_machine_action": "Expand public Paphos ICS/Rantidi object-identity concordance from museum and BBAW catalogue evidence without importing unpublished readings."
+  }
 }
