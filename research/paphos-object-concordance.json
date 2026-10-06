@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "checked": "2026-10-06",
+  "scope": "Paphos public object and edition-identifier concordance seeds",
+  "records": [
+    {
+      "ics": "ICS 17",
+      "components": [
+        {
+          "museum": "Musée du Louvre",
+          "inventory": "AM 1858",
+          "type": "stele fragment",
+          "material": "limestone",
+          "findspot": "Paphos, Argaro necropolis / Grotte de la Reine",
+          "discovery_year": 1862,
+          "date": "400-325 BCE",
+          "script": "Cypro-syllabic",
+          "text_type": "epitaph of Echetimos, king of Paphos"
+        },
+        {
+          "museum": "Musée du Louvre",
+          "inventory": "AM 1859",
+          "type": "stele fragment",
+          "material": "limestone",
+          "findspot": "Paphos, Argaro necropolis / Grotte de la Reine",
+          "discovery_year": 1862,
+          "date": "400-325 BCE",
+          "script": "Cypro-syllabic",
+          "text_type": "three-line epitaph of Echetimos, king of Paphos"
+        }
+      ],
+      "ig_squeeze_catalogue": "ICS n. 17 AB",
+      "identity_status": "TWO_MUSEUM_FRAGMENTS_SHARE_ICS17; DO_NOT COLLAPSE TO ONE PHYSICAL OBJECT WITHOUT AUTHORITY",
+      "sources": [
+        "Louvre AM1858 notice",
+        "Louvre AM1859 notice",
+        "BBAW IG XV Cyprus squeeze catalogue"
+      ]
+    },
+    {
+      "ics": "ICS 16",
+      "components": [
+        {
+          "museum": "Musée du Louvre",
+          "inventory": "AM 1860",
+          "type": "inscribed block",
+          "findspot": "Paphos",
+          "date": "400-325 BCE",
+          "script": "Cypriot syllabic",
+          "text_type": "epitaph of Timocharis, king of Paphos, priest of Aphrodite"
+        }
+      ],
+      "ig_squeeze_catalogue": "ICS n. 16",
+      "identity_status": "PUBLIC_OBJECT_IDENTITY_SEED",
+      "sources": [
+        "Louvre AM1860 notice",
+        "BBAW IG XV Cyprus squeeze catalogue"
+      ]
+    }
+  ],
+  "coverage_note": "BBAW currently lists IG XV 1 fascicle 2 (Paphos, Rantidi) as research in progress; do not invent unpublished IG numbers/readings.",
+  "boundary": "Museum descriptions and squeeze identifiers support object/concordance facts. They do not authorize importing unpublished IG XV 1,2 readings or equating AB components with a single physical object."
+}
