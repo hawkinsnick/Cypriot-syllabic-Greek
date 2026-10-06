@@ -112,3 +112,7 @@ This corpus participates in the Combined Corpus Research AI fleet. Fleet admissi
 
 ## Offline corpus browser
 Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
+
+
+## >9 collection gate
+The current IG XV 1,1 layer has method-parity provenance, lineage, disagreement, rights, browser/API/export and validation controls. It does **not** yet represent the whole Cypriot syllabic Greek corpus: the official scholarly program extends through Paphos and other geographic fascicles. A >9 evidence-depth assessment therefore depends on broader authoritative coverage and object/edition concordance, not additional cosmetic engineering. See `docs/GT9-READINESS.md`.
