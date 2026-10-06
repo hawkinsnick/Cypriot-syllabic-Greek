@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "items": [
+    {
+      "id": "CSG-DIS-001",
+      "scope": "IG XV 1,1 source entries",
+      "kind": "language_classification",
+      "status": "SOURCE_SPECIFIC",
+      "boundary": "Greek/Eteocypriot/uncertain/unclassified labels are source assertions."
+    },
+    {
+      "id": "CSG-DIS-002",
+      "scope": "historical versus modern editions",
+      "kind": "reading_revision",
+      "status": "EXPECTED_AND_SOURCE_ATTRIBUTED",
+      "boundary": "Modern autopsy-based improvements must not silently overwrite ICS readings."
+    },
+    {
+      "id": "CSG-DIS-003",
+      "scope": "coins and numbered parts",
+      "kind": "sampling_unit",
+      "status": "CONTROLLED",
+      "boundary": "Edition parts, types and specimens are not interchangeable counts."
+    },
+    {
+      "id": "CSG-DIS-004",
+      "scope": "whole corpus denominator",
+      "kind": "coverage",
+      "status": "OPEN",
+      "assertions": [
+        "IG XV 1,1 = first fascicle",
+        "historical project database reported 1,397 inscriptions"
+      ],
+      "boundary": "Do not claim 592 parsed entries are the whole Cypriot syllabic Greek corpus."
+    }
+  ]
+}
