@@ -33,3 +33,7 @@ Read `ai-skill/generated/source-state.json` before substantive work. It records 
 - Whole-corpus frequency and cross-script phonetic inference remain blocked
 - IG XV 1, 150 remains quarantined and excluded from parsed statistics
 - Greek interpretation, syllabic transliteration and modern translation remain distinct
+
+
+## Offline corpus browser
+Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-browser.html`. It searches only files explicitly admitted by `research/browser-sources.json`. Browser admission requires rights/provenance review; never recursively ingest restricted or raw upstream material. Display does not establish decipherment, source independence, or expert validation.
