@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "target": "COLLECTION_SCORE_GT_9_PRE_EXPERT",
+  "checked": "2026-10-06",
+  "assessment": "OPEN_PARITY_AND_COVERAGE_FRONTIER",
+  "blockers": [
+    {
+      "id": "CSG-BLK-001",
+      "class": "COVERAGE",
+      "status": "SOURCE_ACCESS_BOUND",
+      "needed": "IG XV 1,2 Paphos and subsequent geographic fascicles/authoritative sources as lawfully published or accessible"
+    },
+    {
+      "id": "CSG-BLK-002",
+      "class": "EDITION_ACCESS",
+      "status": "PARTIAL",
+      "needed": "ICS/Egetmeyer and other independent edition concordances with rights-compatible record-level use"
+    },
+    {
+      "id": "CSG-BLK-003",
+      "class": "OBJECT_CONCORDANCE",
+      "status": "ACCESS_BOUND",
+      "needed": "museum/object identities sufficient to distinguish edition parts/specimens/objects"
+    },
+    {
+      "id": "CSG-BLK-004",
+      "class": "ENGINEERING",
+      "status": "OPEN",
+      "needed": "method-parity API, loss-aware exports, validator, CI and researcher readiness docs"
+    },
+    {
+      "id": "CSG-BLK-005",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM",
+      "needed": "expert review of damaged/restored readings and disputed identities"
+    }
+  ]
+}
