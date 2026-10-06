@@ -1,0 +1,10 @@
+{
+  "format": "corpus-family-browser-config-v1",
+  "project": "Cypriot-syllabic-Greek",
+  "sources": [
+    "data/records.json",
+    "data/signs.json",
+    "data/source-index.json"
+  ],
+  "boundary": "Only explicitly allowlisted, committed repository data are embedded. Browser display does not upgrade source authority, resolve disagreements, establish decipherment, or override record/source licensing."
+}
