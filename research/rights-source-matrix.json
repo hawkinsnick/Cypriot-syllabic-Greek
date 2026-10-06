@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "sources": [
+    {
+      "id": "IG-XV-1-digital",
+      "rights": "CC-BY-4.0",
+      "use": "digital text/transliteration/structured metadata with attribution; source links retained"
+    },
+    {
+      "id": "IG-printed-plates",
+      "rights": "COMPONENT_SPECIFIC",
+      "use": "do not infer plate/photo rights from digital text license"
+    },
+    {
+      "id": "Masson-ICS",
+      "rights": "COPYRIGHT/PROVIDER_SPECIFIC",
+      "use": "bibliography/concordance facts; systematic protected extraction only with rights basis"
+    },
+    {
+      "id": "Egetmeyer-2010",
+      "rights": "COPYRIGHTED_BOOK",
+      "use": "coverage/grammar/repertory authority; no systematic public derivative without permission/clear terms"
+    },
+    {
+      "id": "museum-object-evidence",
+      "rights": "INSTITUTION_SPECIFIC",
+      "use": "lawful identity/provenance facts; images separately controlled"
+    }
+  ],
+  "rule": "Digital CC BY licensing does not automatically relicense printed plates, museum photographs or other editions."
+}
