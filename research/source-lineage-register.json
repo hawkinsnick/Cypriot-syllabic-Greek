@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Cypriot Syllabic Greek",
+  "lineages": [
+    {
+      "id": "CSG-LIN-IGXV11",
+      "sources": [
+        "IG XV 1,1 digital edition"
+      ],
+      "rights": "CC-BY-4.0",
+      "coverage": "Amathus, Kourion, Marion; catalogue range 1-410 with subentries",
+      "boundary": "593 digital responses / 592 parsed records are edition entries, not physical-object count."
+    },
+    {
+      "id": "CSG-LIN-ICS",
+      "sources": [
+        "Masson ICS 1961/1983"
+      ],
+      "role": "historical standard reference",
+      "boundary": "Historical numbering/readings require explicit concordance; do not treat as independent confirmation when inherited by later editions."
+    },
+    {
+      "id": "CSG-LIN-EGETMEYER",
+      "sources": [
+        "Egetmeyer 2010"
+      ],
+      "role": "grammar and >1000-text repertory",
+      "boundary": "Major coverage/linguistic authority; systematic protected extraction requires rights basis."
+    },
+    {
+      "id": "CSG-LIN-IG-FUTURE",
+      "sources": [
+        "IG XV 1,2 Paphos and later geographic fascicles"
+      ],
+      "role": "project-wide expansion frontier",
+      "boundary": "Official project plan is broader than fascicle 1; unpublished/in-preparation material is not corpus data."
+    }
+  ],
+  "rules": [
+    "Entry, subentry, coin specimen and physical object are distinct units.",
+    "Cross-repo IG duplication with Eteocypriot is dependent evidence.",
+    "Greek interpretation, syllabic transliteration, restoration and translation remain distinct."
+  ]
+}
