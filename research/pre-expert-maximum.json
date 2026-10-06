@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "corpus": "Cypriot Syllabic Greek",
-  "target": "PRE_EXPERT_MAXIMUM",
-  "checked": "2026-10-02",
+  "target": "COLLECTION_SCORE_GT_9_PRE_EXPERT",
+  "checked": "2026-10-06",
   "established": [
     {
       "gate": "frozen_IG_XV_1_source_index",
@@ -20,6 +20,19 @@
     {
       "gate": "deterministic_exports_and_validation",
       "status": "PASS"
+    },
+    {
+      "gate": "method_parity_research_interfaces",
+      "status": "PASS",
+      "controls": [
+        "source lineage",
+        "disagreement register",
+        "rights matrix",
+        "research API",
+        "loss-aware export",
+        "parity validator",
+        "offline browser"
+      ]
     }
   ],
   "remaining_nonexpert_work": [
@@ -56,5 +69,20 @@
       "decision": "independently review selected readings and editorial restorations"
     }
   ],
-  "completion_rule": "Current frozen source snapshot is machine/source complete for its declared fascicle; project-wide Pre-Expert Maximum additionally requires all discoverable expansion sources to receive an acquired, rights-blocked, access-blocked, or human-only disposition."
+  "completion_rule": "Current frozen source snapshot is machine/source complete for its declared fascicle; project-wide Pre-Expert Maximum additionally requires all discoverable expansion sources to receive an acquired, rights-blocked, access-blocked, or human-only disposition.",
+  "gt9_gate": {
+    "status": "BLOCKED_BY_COVERAGE_AND_SOURCE_ACCESS",
+    "current_source_layer": {
+      "responses": 593,
+      "parsed_records": 592,
+      "quarantined": 1,
+      "license": "CC-BY-4.0"
+    },
+    "required_for_graduation": [
+      "substantially broader authoritative geographic coverage beyond IG XV 1,1",
+      "rights-compatible ICS/Egetmeyer/independent edition concordance",
+      "physical-object/museum concordance sufficient to distinguish entries, parts, specimens and objects",
+      "expert review remains downstream"
+    ]
+  }
 }
