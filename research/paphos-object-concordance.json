@@ -57,8 +57,39 @@
         "Louvre AM1860 notice",
         "BBAW IG XV Cyprus squeeze catalogue"
       ]
+    },
+    {
+      "ics": "ICS 87",
+      "components": [
+        {
+          "museum": "Musée du Louvre",
+          "inventory": "AM 2750",
+          "type": "inscribed block/stele",
+          "material": "limestone",
+          "findspot": "Dhrymou (Paphos region)",
+          "script": "Cypro-syllabic",
+          "language": "Ancient Greek",
+          "text_type": "dedication (?)",
+          "museum_reading": "ki-li-ka-wo-se-to-[",
+          "rights_boundary": "Catalogue metadata/reading may be cited; Louvre image is separately credited and not treated as open media."
+        }
+      ],
+      "identity_status": "PUBLIC_OBJECT_IDENTITY_AND_ICS_CONCORDANCE",
+      "sources": [
+        "Louvre AM2750 / ICS87 notice"
+      ]
     }
   ],
   "coverage_note": "BBAW currently lists IG XV 1 fascicle 2 (Paphos, Rantidi) as research in progress; do not invent unpublished IG numbers/readings.",
-  "boundary": "Museum descriptions and squeeze identifiers support object/concordance facts. They do not authorize importing unpublished IG XV 1,2 readings or equating AB components with a single physical object."
+  "boundary": "Museum descriptions and squeeze identifiers support object/concordance facts. They do not authorize importing unpublished IG XV 1,2 readings or equating AB components with a single physical object.",
+  "progress": {
+    "public_ics_object_links": 3,
+    "linked_ics": [
+      "ICS 16",
+      "ICS 17",
+      "ICS 87"
+    ],
+    "physical_components_registered": 4,
+    "note": "ICS 17 has two Louvre fragments (AM1858/AM1859); component count is not inscription count."
+  }
 }
