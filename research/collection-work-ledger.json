@@ -2,10 +2,10 @@
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
   "config_sha256": "cb889ebbc3630643c487a501194d7d25fa2da0e7bfb828fb12fc3964b8269b35",
-  "evidence_fingerprint": "aebf4ec99b6f7d2cc95be2fceeb03a58affcb844dbda1f679d5ab999a891cc43",
+  "evidence_fingerprint": "65c437463e6116eefc47b3d95ba213bb525cbfa69791210aedaf1c6a7ddb2187",
   "input_sha256": {
     "data/records.json": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
-    "research/pre-expert-maximum.json": "0168454059eeb82be8e3dbd4552af33f5f7d50773926a35311aa4810a6ddeb27"
+    "research/pre-expert-maximum.json": "f793648ba0b6c6ef26027e5ef713ce71679defd1ab7c8cf4996e4ac3b2f642f2"
   },
   "native_review_links": [
     "LICENSING.md"
