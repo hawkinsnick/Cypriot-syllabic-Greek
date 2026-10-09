@@ -1,33 +1,4 @@
 {
-  "schema_version": "1.0",
-  "corpus": "Cypriot-syllabic-Greek",
-  "required_authorities": [
-    {
-      "role": "audit",
-      "path": "exports/audit.json",
-      "required": true
-    },
-    {
-      "role": "greek_subset",
-      "path": "exports/greek-subset.json",
-      "required": true
-    },
-    {
-      "role": "notice",
-      "path": "NOTICE",
-      "required": true
-    },
-    {
-      "role": "method",
-      "path": "docs/METHOD.md",
-      "required": true
-    },
-    {
-      "role": "ig_xv1_authority",
-      "path": "research/ig-xv1-authority.json",
-      "required": true
-    }
-  ],
   "behavioral_gates": [
     "Digital edition entries are not automatically distinct objects or independent witnesses",
     "The Greek subset is source-interpreted, not independent linguistic gold",
@@ -35,5 +6,44 @@
     "IG XV 1, 150 remains quarantined and excluded from parsed statistics",
     "Greek interpretation, syllabic transliteration and modern translation remain distinct",
     "Shared IG XV 1 records across the Cypriot Greek and Eteocypriot repositories are the same source evidence, not independent replication."
-  ]
+  ],
+  "corpus": "Cypriot-syllabic-Greek",
+  "required_authorities": [
+    {
+      "path": "exports/audit.json",
+      "required": true,
+      "role": "audit"
+    },
+    {
+      "path": "exports/greek-subset.json",
+      "required": true,
+      "role": "greek_subset"
+    },
+    {
+      "path": "NOTICE",
+      "required": true,
+      "role": "notice"
+    },
+    {
+      "path": "docs/METHOD.md",
+      "required": true,
+      "role": "method"
+    },
+    {
+      "path": "research/ig-xv1-authority.json",
+      "required": true,
+      "role": "ig_xv1_authority"
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "required": true,
+      "role": "collection_work_ledger"
+    },
+    {
+      "path": "review/collection-packet.json",
+      "required": true,
+      "role": "collection_review_packet"
+    }
+  ],
+  "schema_version": "1.0"
 }
