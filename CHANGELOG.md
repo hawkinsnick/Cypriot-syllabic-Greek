@@ -23,3 +23,7 @@ offline tooling, source defect quarantine and negative integrity tests.
 ## 0.1.0 — development foundation
 
 Indexed BBAW digital catalogue and established attributed acquisition and scope.
+
+## Unreleased — AI integrity checkpoint
+
+Require checked native dependency projections, preserve corpus-native bundle schemas, and publish synchronized bundles only on their validated source parent. Add Git race and hostile dependency tests; no new readings or expert acceptance.

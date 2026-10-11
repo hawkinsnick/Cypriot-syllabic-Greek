@@ -116,3 +116,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## >9 collection gate
 The current IG XV 1,1 layer has method-parity provenance, lineage, disagreement, rights, browser/API/export and validation controls. It does **not** yet represent the whole Cypriot syllabic Greek corpus: the official scholarly program extends through Paphos and other geographic fascicles. A >9 evidence-depth assessment therefore depends on broader authoritative coverage and object/edition concordance, not additional cosmetic engineering. See `docs/GT9-READINESS.md`.
+
+## AI integrity checkpoint — 2026-10-11
+
+[AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.

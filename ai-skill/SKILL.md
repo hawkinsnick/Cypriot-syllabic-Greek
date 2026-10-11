@@ -41,3 +41,7 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## >9 collection gate
 The current IG XV 1,1 layer has method-parity provenance, lineage, disagreement, rights, browser/API/export and validation controls. It does **not** yet represent the whole Cypriot syllabic Greek corpus: the official scholarly program extends through Paphos and other geographic fascicles. A >9 evidence-depth assessment therefore depends on broader authoritative coverage and object/edition concordance, not additional cosmetic engineering. See `docs/GT9-READINESS.md`.
+
+## Enforced assertion, dependency and bundle integrity
+
+Read `docs/AI-INTEGRITY.md` and the required `research/cross-corpus-dependencies.json` before source counts or cross-corpus analysis. Use qualified assertion views when provided; original source literals must travel with their reconciliation, uncertainty and identity context. The dependency register does not certify physical identity or linguistic affinity. Shared catalogue references and duplicated digital sources are not independent witnesses. Missing links mean unknown, not independent. `scripts/check_cross_corpus_dependencies.py` screens declared record selections and rejects pooled physical/witness counts and phonetic transfer. Native AI bundle validation checks the dependency projection and local evidence hashes. Bundle publication validates the exact source parent and never rebases or force-pushes the validated artifact. Software and packaging checks do not establish expert or model-behavior acceptance.
