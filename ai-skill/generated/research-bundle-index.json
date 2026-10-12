@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "0a435d9473e95179931e1aaa09d39a7d96039ce4",
+  "source_commit": "3e5112fc36cd03798680ba2f9c42d6392889375d",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-12T00:30:50+00:00",
+  "generated_at_utc": "2026-10-12T14:15:16+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -16,13 +16,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "c254e80158a3c95b66241db59ff5758fea630eb2608773db0669d435542d8dec",
-      "bytes": 1104657
+      "sha256": "d0496a67df450b31098a4836daca6067475119d03d921c6a315d40893ea712f1",
+      "bytes": 1336897
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "fc19f0df6b25ea7cdac75fa57657570aed03c1b6cabf524d85d68c13ec428a12",
+      "sha256": "1a8f47d79b8689306eb6481c293c8a2c6b452bc0df43f50c2973cf41a0f2b745",
       "bytes": 1825
     },
     {
@@ -84,6 +84,42 @@
       "path": "docs/AI-INTEGRITY.md",
       "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
       "bytes": 1766
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "research/bbaw-squeeze-identifier-snapshot.json",
+      "sha256": "f36977144ccf2f7e5d801c9026129ac5d6834d6a7030687b304b82bdc14d85e7",
+      "bytes": 33488
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "research/geographic-expansion-register.json",
+      "sha256": "e57d1444c318de166b419f1cb23aec7dc4da4f1d5ed762a80173789f49d3ce0f",
+      "bytes": 177356
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "docs/GEOGRAPHIC-EXPANSION.md",
+      "sha256": "ac8a86c5e3144608fa37f468a1b7f846269f32a13aab9756f8f684304cc5c55f",
+      "bytes": 2855
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "scripts/build_expansion_layer.py",
+      "sha256": "a741e58a4062f9558667a97581ec4b5cd5be0de337681195bd5250d1ae18735c",
+      "bytes": 5525
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "research/paphos-object-concordance.json",
+      "sha256": "d7a2ccfbeb1a1e0785cba843d8025f5fe54f176f00ade1b3c46e23eb25a52494",
+      "bytes": 3345
+    },
+    {
+      "role": "coverage_expansion",
+      "path": "research/gt9-expansion-frontier.json",
+      "sha256": "dcd777a35ee00c44d7c2333686d7a61dce0c8e204463f1064ae80fa4775d0751",
+      "bytes": 2777
     }
   ]
 }
