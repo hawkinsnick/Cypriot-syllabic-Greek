@@ -43,6 +43,21 @@
       "path": "review/collection-packet.json",
       "required": true,
       "role": "collection_review_packet"
+    },
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "required": true
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "required": true
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "required": true
     }
   ],
   "schema_version": "1.0"
