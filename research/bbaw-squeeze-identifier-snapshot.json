@@ -1,0 +1,1060 @@
+{
+  "schema_version": "1.0",
+  "source_url": "https://ig.bbaw.de/de/abklatsche/ig-xv-cyprus",
+  "observed_at": "2026-10-12T14:06:15.120592+00:00",
+  "response_sha256": "b97ea0bd934a6a68d7dfd9f42db6189dab90efc308433940fe426e2e31566b89",
+  "extraction": "Only identifier strings and geographic headings from legacy Tituli syllabici section. Complete HTML retained locally only; no readings/images imported.",
+  "identifier_rows": 210,
+  "rows": [
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Paphus vetus",
+      "reference_as_supplied": "ICS n. 9"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Paphus vetus",
+      "reference_as_supplied": "ICS n. 11"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Paphus vetus",
+      "reference_as_supplied": "ICS n. 16"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Paphus vetus",
+      "reference_as_supplied": "ICS n. 17 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 1"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 2"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 3"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 4"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 5 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 6"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 7"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 8"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 9"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 10 frr. a-d"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 11"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 12"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 13"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 14"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 15"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 16"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 17 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 18 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 19"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 20"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 21"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 22"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 23"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 24"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 25"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 26"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 27"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 28"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 29"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 30"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 31"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 32"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 33"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 34"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 35"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 36"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 37"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 38"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 39"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 40 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 41 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 42"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 43"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 44 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 45"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 46"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 47 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 48"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 49 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 50"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 51"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 52"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 53"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 54"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 55"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 56"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 57"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 58"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 59"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 60"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 61"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 62"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 63 A-C"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 64"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 65 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 66"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 67"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 68"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 69"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 70"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 71"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 72"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 73"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 74"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 75 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 76"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 77"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 78 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 79"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 80"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 81"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 82"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 83"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 84"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 85"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 86"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 87"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 88"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 89"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 90"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 91"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 92"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 93"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 94"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 95"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 96"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 97"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 98"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 99"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 100"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 101"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 102"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 103"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 104"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 105"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 106"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 107"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 108"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 109"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 110"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 111"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 112"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 113"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 114"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 115"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 116"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 117"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 118"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 119"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 120 AB"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 121"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 122"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 123"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 124"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 125"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 126"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 127"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 128"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 129"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 130"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 131"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 132"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 133"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 134"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 135"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 136"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 137"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Rantidi",
+      "reference_as_supplied": "Meister, SBAkBerlin 1911, n. 138"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Drimu",
+      "reference_as_supplied": "ICS n. 84"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Salaminu",
+      "reference_as_supplied": "ICS n. 92"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 131"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 132"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 134"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 139"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 140"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 141"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 150"
+    },
+    {
+      "region_as_supplied": "Paphus et vicinia",
+      "site_as_supplied": "Marium",
+      "reference_as_supplied": "ICS n. 152"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Soli",
+      "reference_as_supplied": "ICS n. 211"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Ledra (?)",
+      "reference_as_supplied": "ICS n. 216 a"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Ledra (?)",
+      "reference_as_supplied": "ICS n. 216 adn. 3"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Idalium",
+      "reference_as_supplied": "ICS n. 217 ectt. gypsina: AB"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Idalium",
+      "reference_as_supplied": "ICS n. 218 ect. gypsinum"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 234"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 235"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 236"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 237"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 238 frr. ab"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 239 frr. ab"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 240 frr. a-c"
+    },
+    {
+      "region_as_supplied": "Nicosia et vicinia",
+      "site_as_supplied": "Chytri",
+      "reference_as_supplied": "ICS n. 241"
+    },
+    {
+      "region_as_supplied": "Cyrenia et vicinia",
+      "site_as_supplied": "Cyrenia",
+      "reference_as_supplied": "ICS n. 252"
+    },
+    {
+      "region_as_supplied": "Cyrenia et vicinia",
+      "site_as_supplied": "Cyrenia",
+      "reference_as_supplied": "ICS n. 253 a"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 260"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 261"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 264"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 265"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 266"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 267"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 268"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 269"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 270"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 271"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 272"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 273"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 274"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 275"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 276"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 277"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 278"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 279"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 282"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 283"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 285"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 286"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 287"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 288"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 289"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 290"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 291"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 292"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 298"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 299 AB"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 300"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 301"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "ICS n. 302"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "SGDI I 70"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "SGDI I 92"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "SGDI I 108"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Golgi",
+      "reference_as_supplied": "Journ. Am. Or. Soc. 11, 1885, 233 n. 5"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Pyla",
+      "reference_as_supplied": "ICS n. 305"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Salamis",
+      "reference_as_supplied": "ICS n. 316 A-C"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Aphrodisium (?)",
+      "reference_as_supplied": "ICS n. 327 AB"
+    },
+    {
+      "region_as_supplied": "Cyprus orientalis",
+      "site_as_supplied": "Karpasia",
+      "reference_as_supplied": "ICS n. 329"
+    },
+    {
+      "region_as_supplied": "Cyprus alibi",
+      "site_as_supplied": null,
+      "reference_as_supplied": "ICS n. 335"
+    },
+    {
+      "region_as_supplied": "Cyprus alibi",
+      "site_as_supplied": null,
+      "reference_as_supplied": "ICS n. 336"
+    }
+  ]
+}

@@ -10,6 +10,13 @@
       "path": "data/records.json",
       "pointer": "",
       "unit": "digital_edition_entry"
+    },
+    {
+      "id_key": "id",
+      "name": "bbaw-legacy-syllabic-squeeze-identifiers",
+      "path": "research/geographic-expansion-register.json",
+      "pointer": "/records",
+      "unit": "source_catalogue_identifier"
     }
   ],
   "repository": "hawkinsnick/Cypriot-syllabic-Greek",
@@ -17,8 +24,13 @@
   "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
   "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
   "source_files": [
-    "research/pre-expert-maximum.json",
+    "docs/AI-INTEGRITY.md",
+    "docs/GEOGRAPHIC-EXPANSION.md",
+    "research/bbaw-squeeze-identifier-snapshot.json",
     "research/cross-corpus-dependencies.json",
-    "docs/AI-INTEGRITY.md"
+    "research/gt9-expansion-frontier.json",
+    "research/paphos-object-concordance.json",
+    "research/pre-expert-maximum.json",
+    "scripts/build_expansion_layer.py"
   ]
 }
