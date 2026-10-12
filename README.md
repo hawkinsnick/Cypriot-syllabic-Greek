@@ -120,3 +120,9 @@ The current IG XV 1,1 layer has method-parity provenance, lineage, disagreement,
 ## AI integrity checkpoint — 2026-10-11
 
 [AI integrity controls](docs/AI-INTEGRITY.md) document source-bound bundle publication and checked cross-corpus dependency safeguards. Reading coverage and scholarly acceptance are unchanged.
+
+## Coverage expansion — 2026-10-12
+
+Use the geographic expansion register for squeeze catalogue discovery beyond IG XV 1. Keep its 210 source identifiers separate from parsed inscriptions and Greek subset statistics. Retain AB/fragment/cast labels and uncertain sites. Leave IG/object joins and Greek-language membership unresolved until source-supported; do not infer a reading from a catalogue heading.
+
+See [docs/GEOGRAPHIC-EXPANSION.md](docs/GEOGRAPHIC-EXPANSION.md).

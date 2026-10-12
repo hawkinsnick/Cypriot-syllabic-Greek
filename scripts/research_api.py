@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse,json,pathlib
-R=pathlib.Path(__file__).resolve().parents[1];F={"records":"data/records.json","lineage":"research/source-lineage-register.json","disagreements":"research/disagreement-register.json","rights":"research/rights-source-matrix.json"}
+R=pathlib.Path(__file__).resolve().parents[1];F={"expansion":"research/geographic-expansion-register.json","records":"data/records.json","lineage":"research/source-lineage-register.json","disagreements":"research/disagreement-register.json","rights":"research/rights-source-matrix.json"}
 def rows(k):
  v=json.loads((R/F[k]).read_text())
  if isinstance(v,list):return v

@@ -6,6 +6,7 @@ R=Path(__file__).resolve().parents[2];O=R/"ai-skill"/"generated";O.mkdir(parents
 sha=os.environ.get("SOURCE_COMMIT") or subprocess.check_output(["git","rev-parse","HEAD"],cwd=R,text=True).strip()
 c=[("collection_work_ledger","research/collection-work-ledger.json"),("collection_review_packet","review/collection-packet.json"),("current_status","analysis/current-status.json"),("audit","exports/audit.json"),("coverage","data/coverage.json"),("claims","release/CLAIM-REGISTRY.csv"),("corpus_json","exports/corpus.json"),("corpus_jsonl","exports/corpus.jsonl"),("greek_subset","exports/greek-subset.json"),("eteocypriot_components","exports/eteocypriot-components.json"),("rights_matrix","DATA-LICENSE-MATRIX.md"),("rights","docs/RIGHTS.md"),("rights_and_licensing","docs/RIGHTS-AND-LICENSING.md"),("notice","NOTICE"),("method","docs/METHOD.md"),("third_party","THIRD-PARTY-NOTICES.md"),("ig_xv1_authority","research/ig-xv1-authority.json"),("pre_expert_maximum","research/pre-expert-maximum.json")]
 c += [("cross_corpus_dependencies","research/cross-corpus-dependencies.json"),("sync_publication_guard","ai-skill/scripts/publish_sync.py"),("ai_integrity_guide","docs/AI-INTEGRITY.md")]
+c += [("coverage_expansion", rel) for rel in ["research/bbaw-squeeze-identifier-snapshot.json", "research/geographic-expansion-register.json", "docs/GEOGRAPHIC-EXPANSION.md", "scripts/build_expansion_layer.py", "research/paphos-object-concordance.json", "research/gt9-expansion-frontier.json"]]
 a=[]
 for role,rel in c:
  p=R/rel
