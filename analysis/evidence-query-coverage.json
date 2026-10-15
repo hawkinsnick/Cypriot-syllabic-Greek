@@ -1,0 +1,110 @@
+{
+  "format": "corpus-native-evidence-query-coverage-v1",
+  "repository": "hawkinsnick/Cypriot-syllabic-Greek",
+  "profile_sha256": "087326a5203a7b111c90dd457aab7bb938ac4998d4476d00a79a7156d7d550c2",
+  "implementation_sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+  "collections": [
+    {
+      "name": "digital-entries",
+      "native_unit": "digital edition entry",
+      "record_count": 592,
+      "scope": "Entry membership, source language classification and component partitions remain literal.",
+      "example_ids": [
+        "CSG-IGXV1-1",
+        "CSG-IGXV1-2",
+        "CSG-IGXV1-3"
+      ],
+      "provenance": {
+        "path": "data/records.json",
+        "sha256": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+        "role": "digital-entries",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "disagreement-register",
+      "native_unit": "research disagreement/control item",
+      "record_count": 4,
+      "scope": "Broad scopes are not automatically assigned to individual records.",
+      "example_ids": [
+        "CSG-DIS-001",
+        "CSG-DIS-002",
+        "CSG-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "3117a86409cf852500fefe75e51664f512105ad74f0237557e45c9a652ebc62d",
+        "pointer": "/items",
+        "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    }
+  ],
+  "context_resources": [
+    {
+      "path": "data/records.json",
+      "sha256": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "digital-entries",
+      "encoding": "json"
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "3117a86409cf852500fefe75e51664f512105ad74f0237557e45c9a652ebc62d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "disagreement-register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/source-lineage-register.json",
+      "sha256": "a5b15b499b6eee08f6e909bb660c3cbd60d9465a5e533bc8a1829abdb2f1442a",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "a0694a44aa5b8ffba883b1c88ce911424e59f625f3273cfdbdbe993abb93112d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "data/source-defects.json",
+      "sha256": "4144d494832d0668efd44b1a1c3c7b361bd97ec7a6c7fdb080bf5d6051d79b8d",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "json"
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "bb405a27ffb974a3105578f8419100b397c2f178b0b5babd3318ea19c7ee6744",
+      "pointer": "",
+      "native_artifacts_snapshot_commit": "fe81f05d8aa8451bed409bb04e3171b180aa9495",
+      "role": "corpus-level source/rights/context register",
+      "encoding": "text"
+    }
+  ],
+  "scholarly_limits": [
+    "Shared IG material is not independent across the two projects. Greek, Eteocypriot and uncertain components must not be conflated. Source editorial marks, translation responsibility and source URLs remain unaltered."
+  ],
+  "alternative_pair_count": null,
+  "independent_witness_count": null,
+  "boundary": "These are views of existing source records, not new witnesses or adjudications. Counts retain their declared native units and must not be summed as unique objects. Registers may contain project hypotheses or untraced alternatives. Only explicitly attributed, aligned readings can support an editorial comparison; no alternative-pair or independent-witness count is inferred by this tool."
+}

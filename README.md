@@ -126,3 +126,7 @@ The current IG XV 1,1 layer has method-parity provenance, lineage, disagreement,
 Use the geographic expansion register for squeeze catalogue discovery beyond IG XV 1. Keep its 210 source identifiers separate from parsed inscriptions and Greek subset statistics. Retain AB/fragment/cast labels and uncertain sites. Leave IG/object joins and Greek-language membership unresolved until source-supported; do not infer a reading from a catalogue heading.
 
 See [docs/GEOGRAPHIC-EXPANSION.md](docs/GEOGRAPHIC-EXPANSION.md).
+
+## Evidence and alternative-reading queries
+
+[Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.

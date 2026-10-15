@@ -33,3 +33,7 @@ Require checked native dependency projections, preserve corpus-native bundle sch
 Use the geographic expansion register for squeeze catalogue discovery beyond IG XV 1. Keep its 210 source identifiers separate from parsed inscriptions and Greek subset statistics. Retain AB/fragment/cast labels and uncertain sites. Leave IG/object joins and Greek-language membership unresolved until source-supported; do not infer a reading from a catalogue heading.
 
 See [docs/GEOGRAPHIC-EXPANSION.md](docs/GEOGRAPHIC-EXPANSION.md).
+
+## 2026-10-15 — Native evidence and alternative-reading queries
+
+Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
