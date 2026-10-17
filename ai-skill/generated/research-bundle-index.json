@@ -1,9 +1,9 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "b0230b857c00fe59f57a16827127ade9ce2f7b79",
+  "source_commit": "c2edc496ab925243921907cd1b0354d7af071090",
   "canonical_repository": true,
-  "generated_at_utc": "2026-10-15T02:37:20+00:00",
+  "generated_at_utc": "2026-10-17T01:06:53+00:00",
   "contract": {
     "corpus_is_authoritative": true,
     "missing_means_unknown": true,
@@ -180,6 +180,30 @@
       "path": "research/gt9-expansion-frontier.json",
       "sha256": "dcd777a35ee00c44d7c2333686d7a61dce0c8e204463f1064ae80fa4775d0751",
       "bytes": 2777
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "role": "research_delivery",
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    },
+    {
+      "role": "research_delivery",
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "role": "research_delivery",
+      "path": "analysis/research-delivery.json",
+      "sha256": "b6e98db7eb6bc90f01447f8300d13e0c92db08db4ec1566a103b827e29b42d9a",
+      "bytes": 6206
     }
   ]
 }
