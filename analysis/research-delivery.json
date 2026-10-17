@@ -1,0 +1,171 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Cypriot-syllabic-Greek",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "digital-entries",
+      "native_unit": "digital edition entry",
+      "record_count": 592,
+      "scope": "Entry membership, source language classification and component partitions remain literal.",
+      "example_ids": [
+        "CSG-IGXV1-1",
+        "CSG-IGXV1-2",
+        "CSG-IGXV1-3"
+      ],
+      "provenance": {
+        "path": "data/records.json",
+        "sha256": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-entries",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "disagreement-register",
+      "native_unit": "research disagreement/control item",
+      "record_count": 4,
+      "scope": "Broad scopes are not automatically assigned to individual records.",
+      "example_ids": [
+        "CSG-DIS-001",
+        "CSG-DIS-002",
+        "CSG-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "3117a86409cf852500fefe75e51664f512105ad74f0237557e45c9a652ebc62d",
+        "pointer": "/items",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 4,
+      "scope": "All four controls distinguish language attribution, expected revisions without encoded pairs, coin units and fascicle coverage. Shared IG data remain dependent evidence.",
+      "example_ids": [
+        "CSG-DIS-001",
+        "CSG-DIS-002",
+        "CSG-DIS-003"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "b0331a1795311e3a85d6d99aa88df511faf08410ef90282596e3aa2534809eb3",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "Shared IG material is not independent across the two projects. Greek, Eteocypriot and uncertain components must not be conflated. Source editorial marks, translation responsibility and source URLs remain unaltered.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+  ],
+  "inputs": [
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "5abeed8801e0a4a528efb27f35cc14998789d6f0f7f851ca38fa28283372b2a4",
+      "bytes": 386
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "bytes": 762
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "bb405a27ffb974a3105578f8419100b397c2f178b0b5babd3318ea19c7ee6744",
+      "bytes": 2103
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "d62deb85af92c87661fdb48c6bdd70332b4001bba7191e815297aee2c59ecb78",
+      "bytes": 7824
+    },
+    {
+      "path": "data/records.json",
+      "sha256": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
+      "bytes": 2035765
+    },
+    {
+      "path": "data/source-defects.json",
+      "sha256": "4144d494832d0668efd44b1a1c3c7b361bd97ec7a6c7fdb080bf5d6051d79b8d",
+      "bytes": 661
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "b0331a1795311e3a85d6d99aa88df511faf08410ef90282596e3aa2534809eb3",
+      "bytes": 4391
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "d0496a67df450b31098a4836daca6067475119d03d921c6a315d40893ea712f1",
+      "bytes": 1336897
+    },
+    {
+      "path": "research/disagreement-register.json",
+      "sha256": "3117a86409cf852500fefe75e51664f512105ad74f0237557e45c9a652ebc62d",
+      "bytes": 1203
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "e3aab01e02787ddaaa5299213004b70082660cb3a130c38fc17f1fa1e00c60ef",
+      "bytes": 4139
+    },
+    {
+      "path": "research/rights-source-matrix.json",
+      "sha256": "a0694a44aa5b8ffba883b1c88ce911424e59f625f3273cfdbdbe993abb93112d",
+      "bytes": 1097
+    },
+    {
+      "path": "research/source-lineage-register.json",
+      "sha256": "a5b15b499b6eee08f6e909bb660c3cbd60d9465a5e533bc8a1829abdb2f1442a",
+      "bytes": 1557
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "1a8f47d79b8689306eb6481c293c8a2c6b452bc0df43f50c2973cf41a0f2b745",
+      "bytes": 1825
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}

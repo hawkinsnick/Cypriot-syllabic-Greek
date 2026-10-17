@@ -37,3 +37,10 @@ See [docs/GEOGRAPHIC-EXPANSION.md](docs/GEOGRAPHIC-EXPANSION.md).
 ## 2026-10-15 — Native evidence and alternative-reading queries
 
 Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
+
+## 2026-10-17 — Research delivery controls
+
+Add checksum-bound native search/evidence responses, deterministic local research
+packaging and offline replay, revision-bound review submission forms and rejection
+tests. Update individual AI instructions and documentation. No source record,
+reading, expert acceptance or redistribution permission is added by this change.

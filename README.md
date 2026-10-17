@@ -132,3 +132,9 @@ See [docs/GEOGRAPHIC-EXPANSION.md](docs/GEOGRAPHIC-EXPANSION.md).
 [Query source evidence and unresolved alternatives](docs/EVIDENCE-AND-ALTERNATIVES.md) using exact native IDs, full source records, pinned artifact locators and explicit corpus-specific scope. [Coverage by native view](analysis/evidence-query-coverage.json) keeps catalogue entries, reading versions, assertions and research issues distinct. This interface adds no source collation, canonical reading or expert acceptance.
 
 Bounded attribution and comparison review: [source qualifications and remaining gaps](docs/ATTRIBUTION-REVIEW.md).
+
+## Research delivery and feedback
+
+[Search, reproducible local packages, evidence-bound answers and review submissions](docs/RESEARCH-DELIVERY.md).
+[Measured delivery scope](analysis/research-delivery.json) retains native evidence
+units and all scholarly, rights and expert-review dependencies.
