@@ -1,5 +1,16 @@
 # Cypriot syllabic Greek research corpus
 
+
+## Use the AI research skill
+
+Start with [the individual skill](ai-skill/SKILL.md) and the
+[step-by-step use and validation guide](docs/AI-SKILL-VALIDATION.md).
+Run `python scripts/validate_ai_skill.py` on a complete matching checkout.
+The skill requires access to its native evidence; a GitHub link alone does not
+install it. Passing checks establish the documented retrieval scope, not accepted
+readings, expert review or cross-platform model accuracy.
+
+
 **Version 1.0.0 — attributed source snapshot and reproducible research toolkit.**
 
 Built directly from BBAW / TELOTA's digital edition of *Inscriptiones Graecae*
