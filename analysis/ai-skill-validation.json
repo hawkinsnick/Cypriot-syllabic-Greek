@@ -1,0 +1,58 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Cypriot-syllabic-Greek",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "cypriot-syllabic-greek-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "4407d8137bb92d1ecd26bfecb93110115bc2b8119b93f92db0744ce18ed28c33",
+  "bundle_source_commit": "a167c37a8228fcde893b50bd99023c0330639e15",
+  "bundle_sha256": "7adbce6ffb215212cd5f5f2c47a504118cc2ae8fe822c1d6112b36da570a2b7e",
+  "indexed_artifact_entries_checked": 41,
+  "unique_indexed_paths_checked": 41,
+  "lookups": [
+    {
+      "collection": "digital-entries",
+      "id": "CSG-IGXV1-1",
+      "native_unit": "digital edition entry",
+      "provenance": {
+        "path": "data/records.json",
+        "sha256": "378c386a534fad4a3ceb4f18dc243ed1b5c3c205dc3cfb2cc92099d145f45c8e",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-entries",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "CSG-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "3117a86409cf852500fefe75e51664f512105ad74f0237557e45c9a652ebc62d",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "CSG-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "b0331a1795311e3a85d6d99aa88df511faf08410ef90282596e3aa2534809eb3",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
