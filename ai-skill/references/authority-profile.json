@@ -84,6 +84,11 @@
       "path": "scripts/build_expansion_layer.py",
       "required": true,
       "role": "coverage_expansion"
+    },
+    {
+      "role": "nonreview_workflow",
+      "path": "docs/NONREVIEW-WORK.md",
+      "required": true
     }
   ],
   "schema_version": "1.0"
